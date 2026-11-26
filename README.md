@@ -1,6 +1,6 @@
 # Malawi Inflation Forecasting Lab
 
-A side project comparing four ways of forecasting Malawi's monthly inflation one month ahead:
+A  project comparing four ways of forecasting Malawi's monthly inflation one month ahead:
 
 1. **Seasonal naive**: this month's forecast is the value from the same month last year (the baseline to beat)
 2. **SARIMA**: a classic statistical time-series model with a yearly seasonal pattern
