@@ -1,0 +1,1118 @@
+date,indicator,value,unit,frequency,geography,region,district,market,commodity,source,source_url,category,raw_value,raw_date,raw_unit,raw_indicator,is_conflict,flagged
+2003-01-01,consumer_price_index,159.4,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,159.4,2003-01-01,Index,CPI Index (Overall),False,False
+2003-01-01,food_inflation_rate,2.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,2.8,2003-01-01,%,Food Inflation (%),False,False
+2003-01-01,inflation_rate,9.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.6,2003-01-01,%,"Inflation, consumer prices (annual %)",False,False
+2003-01-01,non_food_inflation_rate,18.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,18.3,2003-01-01,%,Non-Food Inflation (%),False,False
+2003-02-01,consumer_price_index,162.1,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,162.1,2003-02-01,Index,CPI Index (Overall),False,False
+2003-02-01,food_inflation_rate,3.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,3.0,2003-02-01,%,Food Inflation (%),False,False
+2003-02-01,inflation_rate,9.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.8,2003-02-01,%,"Inflation, consumer prices (annual %)",False,False
+2003-02-01,non_food_inflation_rate,18.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,18.6,2003-02-01,%,Non-Food Inflation (%),False,False
+2003-03-01,consumer_price_index,158.0,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,158.0,2003-03-01,Index,CPI Index (Overall),False,False
+2003-03-01,food_inflation_rate,7.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.7,2003-03-01,%,Food Inflation (%),False,False
+2003-03-01,inflation_rate,10.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.2,2003-03-01,%,"Inflation, consumer prices (annual %)",False,False
+2003-03-01,non_food_inflation_rate,13.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,13.7,2003-03-01,%,Non-Food Inflation (%),False,False
+2003-04-01,consumer_price_index,154.5,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,154.5,2003-04-01,Index,CPI Index (Overall),False,False
+2003-04-01,food_inflation_rate,7.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.8,2003-04-01,%,Food Inflation (%),False,False
+2003-04-01,inflation_rate,9.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.8,2003-04-01,%,"Inflation, consumer prices (annual %)",False,False
+2003-04-01,non_food_inflation_rate,12.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,12.5,2003-04-01,%,Non-Food Inflation (%),False,False
+2003-05-01,consumer_price_index,151.7,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,151.7,2003-05-01,Index,CPI Index (Overall),False,False
+2003-05-01,food_inflation_rate,5.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,5.7,2003-05-01,%,Food Inflation (%),False,False
+2003-05-01,inflation_rate,9.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.0,2003-05-01,%,"Inflation, consumer prices (annual %)",False,False
+2003-05-01,non_food_inflation_rate,15.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,15.9,2003-05-01,%,Non-Food Inflation (%),False,False
+2003-06-01,consumer_price_index,146.4,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,146.4,2003-06-01,Index,CPI Index (Overall),False,False
+2003-06-01,food_inflation_rate,4.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,4.0,2003-06-01,%,Food Inflation (%),False,False
+2003-06-01,inflation_rate,8.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.5,2003-06-01,%,"Inflation, consumer prices (annual %)",False,False
+2003-06-01,non_food_inflation_rate,14.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,14.0,2003-06-01,%,Non-Food Inflation (%),False,False
+2003-07-01,consumer_price_index,146.3,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,146.3,2003-07-01,Index,CPI Index (Overall),False,False
+2003-07-01,food_inflation_rate,5.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,5.3,2003-07-01,%,Food Inflation (%),False,False
+2003-07-01,inflation_rate,8.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.7,2003-07-01,%,"Inflation, consumer prices (annual %)",False,False
+2003-07-01,non_food_inflation_rate,12.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,12.5,2003-07-01,%,Non-Food Inflation (%),False,False
+2003-08-01,consumer_price_index,147.3,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,147.3,2003-08-01,Index,CPI Index (Overall),False,False
+2003-08-01,food_inflation_rate,5.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,5.1,2003-08-01,%,Food Inflation (%),False,False
+2003-08-01,inflation_rate,9.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.0,2003-08-01,%,"Inflation, consumer prices (annual %)",False,False
+2003-08-01,non_food_inflation_rate,13.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,13.2,2003-08-01,%,Non-Food Inflation (%),False,False
+2004-01-01,consumer_price_index,170.3,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,170.3,2004-01-01,Index,CPI Index (Overall),False,False
+2004-01-01,food_inflation_rate,3.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,3.4,2004-01-01,%,Food Inflation (%),False,False
+2004-01-01,inflation_rate,10.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.1,2004-01-01,%,"Inflation, consumer prices (annual %)",False,False
+2004-01-01,non_food_inflation_rate,19.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,19.2,2004-01-01,%,Non-Food Inflation (%),False,False
+2004-03-01,consumer_price_index,175.4,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,175.4,2004-03-01,Index,CPI Index (Overall),False,False
+2004-03-01,food_inflation_rate,3.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,3.9,2004-03-01,%,Food Inflation (%),False,False
+2004-03-01,inflation_rate,10.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.2,2004-03-01,%,"Inflation, consumer prices (annual %)",False,False
+2004-03-01,non_food_inflation_rate,19.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,19.0,2004-03-01,%,Non-Food Inflation (%),False,False
+2004-04-01,consumer_price_index,175.0,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,175.0,2004-04-01,Index,CPI Index (Overall),False,False
+2004-04-01,food_inflation_rate,5.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,5.2,2004-04-01,%,Food Inflation (%),False,False
+2004-04-01,inflation_rate,10.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.7,2004-04-01,%,"Inflation, consumer prices (annual %)",False,False
+2004-04-01,non_food_inflation_rate,18.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,18.2,2004-04-01,%,Non-Food Inflation (%),False,False
+2004-05-01,consumer_price_index,171.7,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,171.7,2004-05-01,Index,CPI Index (Overall),False,False
+2004-05-01,food_inflation_rate,5.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,5.8,2004-05-01,%,Food Inflation (%),False,False
+2004-05-01,inflation_rate,11.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,11.1,2004-05-01,%,"Inflation, consumer prices (annual %)",False,False
+2004-05-01,non_food_inflation_rate,17.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,17.8,2004-05-01,%,Non-Food Inflation (%),False,False
+2004-06-01,consumer_price_index,168.9,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,168.9,2004-06-01,Index,CPI Index (Overall),False,False
+2004-06-01,food_inflation_rate,6.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,6.0,2004-06-01,%,Food Inflation (%),False,False
+2004-06-01,inflation_rate,11.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,11.3,2004-06-01,%,"Inflation, consumer prices (annual %)",False,False
+2004-06-01,non_food_inflation_rate,17.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,17.8,2004-06-01,%,Non-Food Inflation (%),False,False
+2004-07-01,consumer_price_index,163.4,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,163.4,2004-07-01,Index,CPI Index (Overall),False,False
+2004-07-01,food_inflation_rate,6.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,6.3,2004-07-01,%,Food Inflation (%),False,False
+2004-07-01,inflation_rate,11.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,11.6,2004-07-01,%,"Inflation, consumer prices (annual %)",False,False
+2004-07-01,non_food_inflation_rate,17.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,17.5,2004-07-01,%,Non-Food Inflation (%),False,False
+2004-08-01,consumer_price_index,163.9,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,163.9,2004-08-01,Index,CPI Index (Overall),False,False
+2004-08-01,food_inflation_rate,6.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,6.3,2004-08-01,%,Food Inflation (%),False,False
+2004-08-01,inflation_rate,11.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,11.3,2004-08-01,%,"Inflation, consumer prices (annual %)",False,False
+2004-08-01,non_food_inflation_rate,16.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,16.5,2004-08-01,%,Non-Food Inflation (%),False,False
+2004-09-01,consumer_price_index,172.9,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,172.9,2004-09-01,Index,CPI Index (Overall),False,False
+2004-09-01,food_inflation_rate,9.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.4,2004-09-01,%,Food Inflation (%),False,False
+2004-09-01,inflation_rate,10.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.9,2004-09-01,%,"Inflation, consumer prices (annual %)",False,False
+2004-09-01,non_food_inflation_rate,12.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,12.7,2004-09-01,%,Non-Food Inflation (%),False,False
+2004-10-01,consumer_price_index,174.9,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,174.9,2004-10-01,Index,CPI Index (Overall),False,False
+2004-10-01,food_inflation_rate,10.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.8,2004-10-01,%,Food Inflation (%),False,False
+2004-10-01,inflation_rate,12.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,12.2,2004-10-01,%,"Inflation, consumer prices (annual %)",False,False
+2004-10-01,non_food_inflation_rate,13.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,13.6,2004-10-01,%,Non-Food Inflation (%),False,False
+2004-11-01,consumer_price_index,180.0,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,180.0,2004-11-01,Index,CPI Index (Overall),False,False
+2004-11-01,food_inflation_rate,12.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,12.8,2004-11-01,%,Food Inflation (%),False,False
+2004-11-01,inflation_rate,12.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,12.8,2004-11-01,%,"Inflation, consumer prices (annual %)",False,False
+2004-11-01,non_food_inflation_rate,12.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,12.9,2004-11-01,%,Non-Food Inflation (%),False,False
+2004-12-01,consumer_price_index,184.3,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,184.3,2004-12-01,Index,CPI Index (Overall),False,False
+2004-12-01,food_inflation_rate,14.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,14.1,2004-12-01,%,Food Inflation (%),False,False
+2004-12-01,inflation_rate,13.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,13.7,2004-12-01,%,"Inflation, consumer prices (annual %)",False,False
+2004-12-01,non_food_inflation_rate,13.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,13.3,2004-12-01,%,Non-Food Inflation (%),False,False
+2005-01-01,consumer_price_index,194.1,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,194.1,2005-01-01,Index,CPI Index (Overall),False,False
+2005-01-01,food_inflation_rate,15.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,15.5,2005-01-01,%,Food Inflation (%),False,False
+2005-01-01,inflation_rate,14.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,14.0,2005-01-01,%,"Inflation, consumer prices (annual %)",False,False
+2005-01-01,non_food_inflation_rate,12.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,12.3,2005-01-01,%,Non-Food Inflation (%),False,False
+2005-02-01,consumer_price_index,200.4,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,200.4,2005-02-01,Index,CPI Index (Overall),False,False
+2005-02-01,food_inflation_rate,15.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,15.5,2005-02-01,%,Food Inflation (%),False,False
+2005-02-01,inflation_rate,14.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,14.2,2005-02-01,%,"Inflation, consumer prices (annual %)",False,False
+2005-02-01,non_food_inflation_rate,12.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,12.7,2005-02-01,%,Non-Food Inflation (%),False,False
+2005-03-01,consumer_price_index,201.0,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,201.0,2005-03-01,Index,CPI Index (Overall),False,False
+2005-03-01,food_inflation_rate,17.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,17.0,2005-03-01,%,Food Inflation (%),False,False
+2005-03-01,inflation_rate,14.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,14.9,2005-03-01,%,"Inflation, consumer prices (annual %)",False,False
+2005-03-01,non_food_inflation_rate,12.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,12.3,2005-03-01,%,Non-Food Inflation (%),False,False
+2005-04-01,consumer_price_index,198.0,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,198.0,2005-04-01,Index,CPI Index (Overall),False,False
+2005-04-01,food_inflation_rate,17.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,17.8,2005-04-01,%,Food Inflation (%),False,False
+2005-04-01,inflation_rate,15.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,15.3,2005-04-01,%,"Inflation, consumer prices (annual %)",False,False
+2005-04-01,non_food_inflation_rate,12.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,12.4,2005-04-01,%,Non-Food Inflation (%),False,False
+2005-05-01,consumer_price_index,195.0,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,195.0,2005-05-01,Index,CPI Index (Overall),False,False
+2005-05-01,food_inflation_rate,18.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,18.6,2005-05-01,%,Food Inflation (%),False,False
+2005-05-01,inflation_rate,15.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,15.5,2005-05-01,%,"Inflation, consumer prices (annual %)",False,False
+2005-05-01,non_food_inflation_rate,12.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,12.1,2005-05-01,%,Non-Food Inflation (%),False,False
+2005-06-01,consumer_price_index,189.3,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,189.3,2005-06-01,Index,CPI Index (Overall),False,False
+2005-06-01,food_inflation_rate,19.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,19.6,2005-06-01,%,Food Inflation (%),False,False
+2005-06-01,inflation_rate,15.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,15.9,2005-06-01,%,"Inflation, consumer prices (annual %)",False,False
+2005-06-01,non_food_inflation_rate,12.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,12.1,2005-06-01,%,Non-Food Inflation (%),False,False
+2005-07-01,consumer_price_index,188.4,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,188.4,2005-07-01,Index,CPI Index (Overall),False,False
+2005-07-01,food_inflation_rate,19.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,19.3,2005-07-01,%,Food Inflation (%),False,False
+2005-07-01,inflation_rate,15.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,15.6,2005-07-01,%,"Inflation, consumer prices (annual %)",False,False
+2005-07-01,non_food_inflation_rate,12.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,12.0,2005-07-01,%,Non-Food Inflation (%),False,False
+2005-08-01,consumer_price_index,189.0,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,189.0,2005-08-01,Index,CPI Index (Overall),False,False
+2005-08-01,food_inflation_rate,18.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,18.7,2005-08-01,%,Food Inflation (%),False,False
+2005-08-01,inflation_rate,15.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,15.4,2005-08-01,%,"Inflation, consumer prices (annual %)",False,False
+2005-08-01,non_food_inflation_rate,12.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,12.1,2005-08-01,%,Non-Food Inflation (%),False,False
+2005-10-01,consumer_price_index,202.5,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,202.5,2005-10-01,Index,CPI Index (Overall),False,False
+2005-10-01,food_inflation_rate,16.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,16.1,2005-10-01,%,Food Inflation (%),False,False
+2005-10-01,inflation_rate,15.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,15.9,2005-10-01,%,"Inflation, consumer prices (annual %)",False,False
+2005-10-01,non_food_inflation_rate,15.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,15.7,2005-10-01,%,Non-Food Inflation (%),False,False
+2005-11-01,consumer_price_index,209.1,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,209.1,2005-11-01,Index,CPI Index (Overall),False,False
+2005-11-01,food_inflation_rate,16.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,16.5,2005-11-01,%,Food Inflation (%),False,False
+2005-11-01,inflation_rate,16.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,16.2,2005-11-01,%,"Inflation, consumer prices (annual %)",False,False
+2005-11-01,non_food_inflation_rate,15.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,15.9,2005-11-01,%,Non-Food Inflation (%),False,False
+2005-12-01,consumer_price_index,214.8,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,214.8,2005-12-01,Index,CPI Index (Overall),False,False
+2005-12-01,food_inflation_rate,17.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,17.2,2005-12-01,%,Food Inflation (%),False,False
+2005-12-01,inflation_rate,16.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,16.5,2005-12-01,%,"Inflation, consumer prices (annual %)",False,False
+2005-12-01,non_food_inflation_rate,15.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,15.8,2005-12-01,%,Non-Food Inflation (%),False,False
+2006-01-01,consumer_price_index,226.6,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,226.6,2006-01-01,Index,CPI Index (Overall),False,False
+2006-01-01,food_inflation_rate,17.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,17.9,2006-01-01,%,Food Inflation (%),False,False
+2006-01-01,inflation_rate,16.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,16.7,2006-01-01,%,"Inflation, consumer prices (annual %)",False,False
+2006-01-01,non_food_inflation_rate,15.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,15.3,2006-01-01,%,Non-Food Inflation (%),False,False
+2006-02-01,consumer_price_index,234.5,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,234.5,2006-02-01,Index,CPI Index (Overall),False,False
+2006-02-01,food_inflation_rate,19.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,19.9,2006-02-01,%,Food Inflation (%),False,False
+2006-02-01,inflation_rate,17.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,17.1,2006-02-01,%,"Inflation, consumer prices (annual %)",False,False
+2006-02-01,non_food_inflation_rate,13.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,13.5,2006-02-01,%,Non-Food Inflation (%),False,False
+2006-03-01,consumer_price_index,234.4,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,234.4,2006-03-01,Index,CPI Index (Overall),False,False
+2006-03-01,food_inflation_rate,19.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,19.2,2006-03-01,%,Food Inflation (%),False,False
+2006-03-01,inflation_rate,16.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,16.6,2006-03-01,%,"Inflation, consumer prices (annual %)",False,False
+2006-03-01,non_food_inflation_rate,13.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,13.4,2006-03-01,%,Non-Food Inflation (%),False,False
+2006-04-01,consumer_price_index,229.0,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,229.0,2006-04-01,Index,CPI Index (Overall),False,False
+2006-04-01,food_inflation_rate,18.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,18.5,2006-04-01,%,Food Inflation (%),False,False
+2006-04-01,inflation_rate,16.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,16.1,2006-04-01,%,"Inflation, consumer prices (annual %)",False,False
+2006-04-01,non_food_inflation_rate,13.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,13.3,2006-04-01,%,Non-Food Inflation (%),False,False
+2006-05-01,consumer_price_index,225.8,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,225.8,2006-05-01,Index,CPI Index (Overall),False,False
+2006-05-01,food_inflation_rate,18.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,18.1,2006-05-01,%,Food Inflation (%),False,False
+2006-05-01,inflation_rate,15.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,15.8,2006-05-01,%,"Inflation, consumer prices (annual %)",False,False
+2006-05-01,non_food_inflation_rate,13.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,13.1,2006-05-01,%,Non-Food Inflation (%),False,False
+2006-06-01,consumer_price_index,218.2,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,218.2,2006-06-01,Index,CPI Index (Overall),False,False
+2006-06-01,food_inflation_rate,17.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,17.5,2006-06-01,%,Food Inflation (%),False,False
+2006-06-01,inflation_rate,15.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,15.3,2006-06-01,%,"Inflation, consumer prices (annual %)",False,False
+2006-06-01,non_food_inflation_rate,12.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,12.8,2006-06-01,%,Non-Food Inflation (%),False,False
+2006-07-01,consumer_price_index,216.6,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,216.6,2006-07-01,Index,CPI Index (Overall),False,False
+2006-07-01,food_inflation_rate,17.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,17.2,2006-07-01,%,Food Inflation (%),False,False
+2006-07-01,inflation_rate,14.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,14.9,2006-07-01,%,"Inflation, consumer prices (annual %)",False,False
+2006-07-01,non_food_inflation_rate,12.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,12.6,2006-07-01,%,Non-Food Inflation (%),False,False
+2006-08-01,consumer_price_index,211.8,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,211.8,2006-08-01,Index,CPI Index (Overall),False,False
+2006-08-01,food_inflation_rate,11.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,11.6,2006-08-01,%,Food Inflation (%),False,False
+2006-08-01,inflation_rate,12.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,12.0,2006-08-01,%,"Inflation, consumer prices (annual %)",False,False
+2006-08-01,non_food_inflation_rate,12.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,12.5,2006-08-01,%,Non-Food Inflation (%),False,False
+2006-09-01,consumer_price_index,223.5,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,223.5,2006-09-01,Index,CPI Index (Overall),False,False
+2006-09-01,food_inflation_rate,12.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,12.9,2006-09-01,%,Food Inflation (%),False,False
+2006-09-01,inflation_rate,11.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,11.6,2006-09-01,%,"Inflation, consumer prices (annual %)",False,False
+2006-09-01,non_food_inflation_rate,10.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.4,2006-09-01,%,Non-Food Inflation (%),False,False
+2006-10-01,consumer_price_index,224.7,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,224.7,2006-10-01,Index,CPI Index (Overall),False,False
+2006-10-01,food_inflation_rate,12.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,12.2,2006-10-01,%,Food Inflation (%),False,False
+2006-10-01,inflation_rate,11.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,11.0,2006-10-01,%,"Inflation, consumer prices (annual %)",False,False
+2006-10-01,non_food_inflation_rate,10.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.1,2006-10-01,%,Non-Food Inflation (%),False,False
+2006-11-01,consumer_price_index,230.9,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,230.9,2006-11-01,Index,CPI Index (Overall),False,False
+2006-11-01,food_inflation_rate,11.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,11.3,2006-11-01,%,Food Inflation (%),False,False
+2006-11-01,inflation_rate,10.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.5,2006-11-01,%,"Inflation, consumer prices (annual %)",False,False
+2006-11-01,non_food_inflation_rate,9.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.5,2006-11-01,%,Non-Food Inflation (%),False,False
+2006-12-01,consumer_price_index,236.6,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,236.6,2006-12-01,Index,CPI Index (Overall),False,False
+2006-12-01,food_inflation_rate,10.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.6,2006-12-01,%,Food Inflation (%),False,False
+2006-12-01,inflation_rate,10.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.1,2006-12-01,%,"Inflation, consumer prices (annual %)",False,False
+2006-12-01,non_food_inflation_rate,9.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.6,2006-12-01,%,Non-Food Inflation (%),False,False
+2007-01-01,consumer_price_index,248.4,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,248.4,2007-01-01,Index,CPI Index (Overall),False,False
+2007-01-01,food_inflation_rate,9.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.7,2007-01-01,%,Food Inflation (%),False,False
+2007-01-01,inflation_rate,9.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.6,2007-01-01,%,"Inflation, consumer prices (annual %)",False,False
+2007-01-01,non_food_inflation_rate,9.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.4,2007-01-01,%,Non-Food Inflation (%),False,False
+2007-02-01,consumer_price_index,256.0,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,256.0,2007-02-01,Index,CPI Index (Overall),False,False
+2007-02-01,food_inflation_rate,9.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.1,2007-02-01,%,Food Inflation (%),False,False
+2007-02-01,inflation_rate,9.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.2,2007-02-01,%,"Inflation, consumer prices (annual %)",False,False
+2007-02-01,non_food_inflation_rate,9.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.3,2007-02-01,%,Non-Food Inflation (%),False,False
+2007-03-01,consumer_price_index,254.6,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,254.6,2007-03-01,Index,CPI Index (Overall),False,False
+2007-03-01,food_inflation_rate,8.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.3,2007-03-01,%,Food Inflation (%),False,False
+2007-03-01,inflation_rate,8.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.6,2007-03-01,%,"Inflation, consumer prices (annual %)",False,False
+2007-03-01,non_food_inflation_rate,9.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.1,2007-03-01,%,Non-Food Inflation (%),False,False
+2007-04-01,consumer_price_index,249.2,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,249.2,2007-04-01,Index,CPI Index (Overall),False,False
+2007-04-01,food_inflation_rate,7.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.9,2007-04-01,%,Food Inflation (%),False,False
+2007-04-01,inflation_rate,8.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.4,2007-04-01,%,"Inflation, consumer prices (annual %)",False,False
+2007-04-01,non_food_inflation_rate,9.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.1,2007-04-01,%,Non-Food Inflation (%),False,False
+2007-05-01,consumer_price_index,243.7,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,243.7,2007-05-01,Index,CPI Index (Overall),False,False
+2007-05-01,food_inflation_rate,7.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.2,2007-05-01,%,Food Inflation (%),False,False
+2007-05-01,inflation_rate,7.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.9,2007-05-01,%,"Inflation, consumer prices (annual %)",False,False
+2007-05-01,non_food_inflation_rate,8.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.8,2007-05-01,%,Non-Food Inflation (%),False,False
+2007-06-01,consumer_price_index,234.9,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,234.9,2007-06-01,Index,CPI Index (Overall),False,False
+2007-06-01,food_inflation_rate,6.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,6.8,2007-06-01,%,Food Inflation (%),False,False
+2007-06-01,inflation_rate,7.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.7,2007-06-01,%,"Inflation, consumer prices (annual %)",False,False
+2007-06-01,non_food_inflation_rate,8.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.6,2007-06-01,%,Non-Food Inflation (%),False,False
+2007-07-01,consumer_price_index,232.6,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,232.6,2007-07-01,Index,CPI Index (Overall),False,False
+2007-07-01,food_inflation_rate,6.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,6.7,2007-07-01,%,Food Inflation (%),False,False
+2007-07-01,inflation_rate,7.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.4,2007-07-01,%,"Inflation, consumer prices (annual %)",False,False
+2007-07-01,non_food_inflation_rate,8.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.2,2007-07-01,%,Non-Food Inflation (%),False,False
+2007-08-01,consumer_price_index,227.1,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,227.1,2007-08-01,Index,CPI Index (Overall),False,False
+2007-08-01,food_inflation_rate,6.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,6.6,2007-08-01,%,Food Inflation (%),False,False
+2007-08-01,inflation_rate,7.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.2,2007-08-01,%,"Inflation, consumer prices (annual %)",False,False
+2007-08-01,non_food_inflation_rate,7.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.9,2007-08-01,%,Non-Food Inflation (%),False,False
+2007-09-01,consumer_price_index,239.3,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,239.3,2007-09-01,Index,CPI Index (Overall),False,False
+2007-09-01,food_inflation_rate,6.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,6.7,2007-09-01,%,Food Inflation (%),False,False
+2007-09-01,inflation_rate,7.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.1,2007-09-01,%,"Inflation, consumer prices (annual %)",False,False
+2007-09-01,non_food_inflation_rate,7.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.5,2007-09-01,%,Non-Food Inflation (%),False,False
+2007-10-01,consumer_price_index,241.0,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,241.0,2007-10-01,Index,CPI Index (Overall),False,False
+2007-10-01,food_inflation_rate,6.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,6.5,2007-10-01,%,Food Inflation (%),False,False
+2007-10-01,inflation_rate,7.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.2,2007-10-01,%,"Inflation, consumer prices (annual %)",False,False
+2007-10-01,non_food_inflation_rate,8.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.0,2007-10-01,%,Non-Food Inflation (%),False,False
+2007-11-01,consumer_price_index,248.0,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,248.0,2007-11-01,Index,CPI Index (Overall),False,False
+2007-11-01,food_inflation_rate,6.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,6.7,2007-11-01,%,Food Inflation (%),False,False
+2007-11-01,inflation_rate,7.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.4,2007-11-01,%,"Inflation, consumer prices (annual %)",False,False
+2007-11-01,non_food_inflation_rate,8.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.2,2007-11-01,%,Non-Food Inflation (%),False,False
+2007-12-01,consumer_price_index,254.4,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,254.4,2007-12-01,Index,CPI Index (Overall),False,False
+2007-12-01,food_inflation_rate,6.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,6.7,2007-12-01,%,Food Inflation (%),False,False
+2007-12-01,inflation_rate,7.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.5,2007-12-01,%,"Inflation, consumer prices (annual %)",False,False
+2007-12-01,non_food_inflation_rate,8.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.5,2007-12-01,%,Non-Food Inflation (%),False,False
+2008-01-01,consumer_price_index,267.6,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,267.6,2008-01-01,Index,CPI Index (Overall),False,False
+2008-01-01,food_inflation_rate,6.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,6.7,2008-01-01,%,Food Inflation (%),False,False
+2008-01-01,inflation_rate,7.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.7,2008-01-01,%,"Inflation, consumer prices (annual %)",False,False
+2008-01-01,non_food_inflation_rate,9.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.0,2008-01-01,%,Non-Food Inflation (%),False,False
+2008-02-01,consumer_price_index,276.4,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,276.4,2008-02-01,Index,CPI Index (Overall),False,False
+2008-02-01,food_inflation_rate,6.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,6.7,2008-02-01,%,Food Inflation (%),False,False
+2008-02-01,inflation_rate,8.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.0,2008-02-01,%,"Inflation, consumer prices (annual %)",False,False
+2008-02-01,non_food_inflation_rate,9.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.5,2008-02-01,%,Non-Food Inflation (%),False,False
+2008-03-01,consumer_price_index,275.5,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,275.5,2008-03-01,Index,CPI Index (Overall),False,False
+2008-03-01,food_inflation_rate,6.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,6.9,2008-03-01,%,Food Inflation (%),False,False
+2008-03-01,inflation_rate,8.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.2,2008-03-01,%,"Inflation, consumer prices (annual %)",False,False
+2008-03-01,non_food_inflation_rate,9.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.8,2008-03-01,%,Non-Food Inflation (%),False,False
+2008-04-01,consumer_price_index,269.5,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,269.5,2008-04-01,Index,CPI Index (Overall),False,False
+2008-04-01,food_inflation_rate,6.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,6.4,2008-04-01,%,Food Inflation (%),False,False
+2008-04-01,inflation_rate,8.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.1,2008-04-01,%,"Inflation, consumer prices (annual %)",False,False
+2008-04-01,non_food_inflation_rate,10.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.2,2008-04-01,%,Non-Food Inflation (%),False,False
+2008-05-01,consumer_price_index,263.0,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,263.0,2008-05-01,Index,CPI Index (Overall),False,False
+2008-05-01,food_inflation_rate,6.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,6.0,2008-05-01,%,Food Inflation (%),False,False
+2008-05-01,inflation_rate,7.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.9,2008-05-01,%,"Inflation, consumer prices (annual %)",False,False
+2008-05-01,non_food_inflation_rate,10.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.2,2008-05-01,%,Non-Food Inflation (%),False,False
+2008-06-01,consumer_price_index,254.9,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,254.9,2008-06-01,Index,CPI Index (Overall),False,False
+2008-06-01,food_inflation_rate,6.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,6.5,2008-06-01,%,Food Inflation (%),False,False
+2008-06-01,inflation_rate,8.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.5,2008-06-01,%,"Inflation, consumer prices (annual %)",False,False
+2008-06-01,non_food_inflation_rate,10.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.7,2008-06-01,%,Non-Food Inflation (%),False,False
+2008-07-01,consumer_price_index,253.0,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,253.0,2008-07-01,Index,CPI Index (Overall),False,False
+2008-07-01,food_inflation_rate,6.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,6.6,2008-07-01,%,Food Inflation (%),False,False
+2008-07-01,inflation_rate,8.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.7,2008-07-01,%,"Inflation, consumer prices (annual %)",False,False
+2008-07-01,non_food_inflation_rate,11.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,11.0,2008-07-01,%,Non-Food Inflation (%),False,False
+2008-08-01,consumer_price_index,247.8,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,247.8,2008-08-01,Index,CPI Index (Overall),False,False
+2008-08-01,food_inflation_rate,7.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.1,2008-08-01,%,Food Inflation (%),False,False
+2008-08-01,inflation_rate,9.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.1,2008-08-01,%,"Inflation, consumer prices (annual %)",False,False
+2008-08-01,non_food_inflation_rate,11.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,11.2,2008-08-01,%,Non-Food Inflation (%),False,False
+2008-09-01,consumer_price_index,261.6,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,261.6,2008-09-01,Index,CPI Index (Overall),False,False
+2008-09-01,food_inflation_rate,7.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.3,2008-09-01,%,Food Inflation (%),False,False
+2008-09-01,inflation_rate,9.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.3,2008-09-01,%,"Inflation, consumer prices (annual %)",False,False
+2008-09-01,non_food_inflation_rate,11.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,11.4,2008-09-01,%,Non-Food Inflation (%),False,False
+2008-10-01,consumer_price_index,263.7,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,263.7,2008-10-01,Index,CPI Index (Overall),False,False
+2008-10-01,food_inflation_rate,7.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.4,2008-10-01,%,Food Inflation (%),False,False
+2008-10-01,inflation_rate,9.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.4,2008-10-01,%,"Inflation, consumer prices (annual %)",False,False
+2008-10-01,non_food_inflation_rate,11.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,11.6,2008-10-01,%,Non-Food Inflation (%),False,False
+2008-11-01,consumer_price_index,271.8,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,271.8,2008-11-01,Index,CPI Index (Overall),False,False
+2008-11-01,food_inflation_rate,7.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.6,2008-11-01,%,Food Inflation (%),False,False
+2008-11-01,inflation_rate,9.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.6,2008-11-01,%,"Inflation, consumer prices (annual %)",False,False
+2008-11-01,non_food_inflation_rate,11.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,11.8,2008-11-01,%,Non-Food Inflation (%),False,False
+2008-12-01,consumer_price_index,279.7,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,279.7,2008-12-01,Index,CPI Index (Overall),False,False
+2008-12-01,food_inflation_rate,8.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.1,2008-12-01,%,Food Inflation (%),False,False
+2008-12-01,inflation_rate,9.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.9,2008-12-01,%,"Inflation, consumer prices (annual %)",False,False
+2008-12-01,non_food_inflation_rate,12.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,12.0,2008-12-01,%,Non-Food Inflation (%),False,False
+2009-01-01,consumer_price_index,294.5,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,294.5,2009-01-01,Index,CPI Index (Overall),False,False
+2009-01-01,food_inflation_rate,8.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.3,2009-01-01,%,Food Inflation (%),False,False
+2009-01-01,inflation_rate,10.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.1,2009-01-01,%,"Inflation, consumer prices (annual %)",False,False
+2009-01-01,non_food_inflation_rate,12.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,12.2,2009-01-01,%,Non-Food Inflation (%),False,False
+2009-02-01,consumer_price_index,303.1,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,303.1,2009-02-01,Index,CPI Index (Overall),False,False
+2009-02-01,food_inflation_rate,8.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.7,2009-02-01,%,Food Inflation (%),False,False
+2009-02-01,inflation_rate,9.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.7,2009-02-01,%,"Inflation, consumer prices (annual %)",False,False
+2009-02-01,non_food_inflation_rate,10.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.8,2009-02-01,%,Non-Food Inflation (%),False,False
+2009-03-01,consumer_price_index,301.7,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,301.7,2009-03-01,Index,CPI Index (Overall),False,False
+2009-03-01,food_inflation_rate,8.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.7,2009-03-01,%,Food Inflation (%),False,False
+2009-03-01,inflation_rate,9.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.5,2009-03-01,%,"Inflation, consumer prices (annual %)",False,False
+2009-03-01,non_food_inflation_rate,10.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.5,2009-03-01,%,Non-Food Inflation (%),False,False
+2009-04-01,consumer_price_index,294.4,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,294.4,2009-04-01,Index,CPI Index (Overall),False,False
+2009-04-01,food_inflation_rate,8.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.3,2009-04-01,%,Food Inflation (%),False,False
+2009-04-01,inflation_rate,9.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.2,2009-04-01,%,"Inflation, consumer prices (annual %)",False,False
+2009-04-01,non_food_inflation_rate,10.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.3,2009-04-01,%,Non-Food Inflation (%),False,False
+2009-05-01,consumer_price_index,285.9,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,285.9,2009-05-01,Index,CPI Index (Overall),False,False
+2009-05-01,food_inflation_rate,7.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.4,2009-05-01,%,Food Inflation (%),False,False
+2009-05-01,inflation_rate,8.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.7,2009-05-01,%,"Inflation, consumer prices (annual %)",False,False
+2009-05-01,non_food_inflation_rate,10.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.1,2009-05-01,%,Non-Food Inflation (%),False,False
+2009-06-01,consumer_price_index,276.4,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,276.4,2009-06-01,Index,CPI Index (Overall),False,False
+2009-06-01,food_inflation_rate,7.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.1,2009-06-01,%,Food Inflation (%),False,False
+2009-06-01,inflation_rate,8.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.4,2009-06-01,%,"Inflation, consumer prices (annual %)",False,False
+2009-06-01,non_food_inflation_rate,9.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.9,2009-06-01,%,Non-Food Inflation (%),False,False
+2009-07-01,consumer_price_index,273.3,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,273.3,2009-07-01,Index,CPI Index (Overall),False,False
+2009-07-01,food_inflation_rate,6.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,6.9,2009-07-01,%,Food Inflation (%),False,False
+2009-07-01,inflation_rate,8.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.0,2009-07-01,%,"Inflation, consumer prices (annual %)",False,False
+2009-07-01,non_food_inflation_rate,9.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.2,2009-07-01,%,Non-Food Inflation (%),False,False
+2009-08-01,consumer_price_index,267.1,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,267.1,2009-08-01,Index,CPI Index (Overall),False,False
+2009-08-01,food_inflation_rate,6.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,6.8,2009-08-01,%,Food Inflation (%),False,False
+2009-08-01,inflation_rate,7.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.8,2009-08-01,%,"Inflation, consumer prices (annual %)",False,False
+2009-08-01,non_food_inflation_rate,8.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.7,2009-08-01,%,Non-Food Inflation (%),False,False
+2009-09-01,consumer_price_index,281.2,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,281.2,2009-09-01,Index,CPI Index (Overall),False,False
+2009-09-01,food_inflation_rate,6.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,6.4,2009-09-01,%,Food Inflation (%),False,False
+2009-09-01,inflation_rate,7.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.5,2009-09-01,%,"Inflation, consumer prices (annual %)",False,False
+2009-09-01,non_food_inflation_rate,8.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.5,2009-09-01,%,Non-Food Inflation (%),False,False
+2009-10-01,consumer_price_index,282.9,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,282.9,2009-10-01,Index,CPI Index (Overall),False,False
+2009-10-01,food_inflation_rate,6.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,6.4,2009-10-01,%,Food Inflation (%),False,False
+2009-10-01,inflation_rate,7.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.3,2009-10-01,%,"Inflation, consumer prices (annual %)",False,False
+2009-10-01,non_food_inflation_rate,8.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.2,2009-10-01,%,Non-Food Inflation (%),False,False
+2009-11-01,consumer_price_index,291.3,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,291.3,2009-11-01,Index,CPI Index (Overall),False,False
+2009-11-01,food_inflation_rate,6.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,6.3,2009-11-01,%,Food Inflation (%),False,False
+2009-11-01,inflation_rate,7.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.2,2009-11-01,%,"Inflation, consumer prices (annual %)",False,False
+2009-11-01,non_food_inflation_rate,8.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.0,2009-11-01,%,Non-Food Inflation (%),False,False
+2009-12-01,consumer_price_index,300.9,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,300.9,2009-12-01,Index,CPI Index (Overall),False,False
+2009-12-01,food_inflation_rate,6.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,6.6,2009-12-01,%,Food Inflation (%),False,False
+2009-12-01,inflation_rate,7.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.6,2009-12-01,%,"Inflation, consumer prices (annual %)",False,False
+2009-12-01,non_food_inflation_rate,8.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.7,2009-12-01,%,Non-Food Inflation (%),False,False
+2010-01-01,consumer_price_index,317.6,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,317.6,2010-01-01,Index,CPI Index (Overall),False,False
+2010-01-01,food_inflation_rate,6.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,6.7,2010-01-01,%,Food Inflation (%),False,False
+2010-01-01,inflation_rate,7.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.8,2010-01-01,%,"Inflation, consumer prices (annual %)",False,False
+2010-01-01,non_food_inflation_rate,9.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.1,2010-01-01,%,Non-Food Inflation (%),False,False
+2010-02-01,consumer_price_index,328.0,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,328.0,2010-02-01,Index,CPI Index (Overall),False,False
+2010-02-01,food_inflation_rate,6.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,6.8,2010-02-01,%,Food Inflation (%),False,False
+2010-02-01,inflation_rate,8.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.2,2010-02-01,%,"Inflation, consumer prices (annual %)",False,False
+2010-02-01,non_food_inflation_rate,9.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.9,2010-02-01,%,Non-Food Inflation (%),False,False
+2010-03-01,consumer_price_index,326.9,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,326.9,2010-03-01,Index,CPI Index (Overall),False,False
+2010-03-01,food_inflation_rate,6.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,6.8,2010-03-01,%,Food Inflation (%),False,False
+2010-03-01,inflation_rate,8.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.3,2010-03-01,%,"Inflation, consumer prices (annual %)",False,False
+2010-03-01,non_food_inflation_rate,10.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.3,2010-03-01,%,Non-Food Inflation (%),False,False
+2010-04-01,consumer_price_index,318.2,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,318.2,2010-04-01,Index,CPI Index (Overall),False,False
+2010-04-01,food_inflation_rate,6.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,6.3,2010-04-01,%,Food Inflation (%),False,False
+2010-04-01,inflation_rate,8.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.1,2010-04-01,%,"Inflation, consumer prices (annual %)",False,False
+2010-04-01,non_food_inflation_rate,10.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.2,2010-04-01,%,Non-Food Inflation (%),False,False
+2010-05-01,consumer_price_index,308.3,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,308.3,2010-05-01,Index,CPI Index (Overall),False,False
+2010-05-01,food_inflation_rate,5.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,5.8,2010-05-01,%,Food Inflation (%),False,False
+2010-05-01,inflation_rate,7.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.8,2010-05-01,%,"Inflation, consumer prices (annual %)",False,False
+2010-05-01,non_food_inflation_rate,10.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.1,2010-05-01,%,Non-Food Inflation (%),False,False
+2010-06-01,consumer_price_index,297.3,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,297.3,2010-06-01,Index,CPI Index (Overall),False,False
+2010-06-01,food_inflation_rate,5.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,5.3,2010-06-01,%,Food Inflation (%),False,False
+2010-06-01,inflation_rate,7.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.5,2010-06-01,%,"Inflation, consumer prices (annual %)",False,False
+2010-06-01,non_food_inflation_rate,9.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.8,2010-06-01,%,Non-Food Inflation (%),False,False
+2010-07-01,consumer_price_index,293.3,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,293.3,2010-07-01,Index,CPI Index (Overall),False,False
+2010-07-01,food_inflation_rate,4.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,4.6,2010-07-01,%,Food Inflation (%),False,False
+2010-07-01,inflation_rate,7.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.3,2010-07-01,%,"Inflation, consumer prices (annual %)",False,False
+2010-07-01,non_food_inflation_rate,9.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.9,2010-07-01,%,Non-Food Inflation (%),False,False
+2010-08-01,consumer_price_index,286.4,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,286.4,2010-08-01,Index,CPI Index (Overall),False,False
+2010-08-01,food_inflation_rate,4.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,4.4,2010-08-01,%,Food Inflation (%),False,False
+2010-08-01,inflation_rate,7.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.2,2010-08-01,%,"Inflation, consumer prices (annual %)",False,False
+2010-08-01,non_food_inflation_rate,9.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.9,2010-08-01,%,Non-Food Inflation (%),False,False
+2010-09-01,consumer_price_index,300.9,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,300.9,2010-09-01,Index,CPI Index (Overall),False,False
+2010-09-01,food_inflation_rate,4.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,4.1,2010-09-01,%,Food Inflation (%),False,False
+2010-09-01,inflation_rate,7.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.0,2010-09-01,%,"Inflation, consumer prices (annual %)",False,False
+2010-09-01,non_food_inflation_rate,10.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.0,2010-09-01,%,Non-Food Inflation (%),False,False
+2010-10-01,consumer_price_index,301.9,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,301.9,2010-10-01,Index,CPI Index (Overall),False,False
+2010-10-01,food_inflation_rate,3.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,3.5,2010-10-01,%,Food Inflation (%),False,False
+2010-10-01,inflation_rate,6.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,6.7,2010-10-01,%,"Inflation, consumer prices (annual %)",False,False
+2010-10-01,non_food_inflation_rate,10.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.0,2010-10-01,%,Non-Food Inflation (%),False,False
+2010-11-01,consumer_price_index,310.0,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,310.0,2010-11-01,Index,CPI Index (Overall),False,False
+2010-11-01,food_inflation_rate,3.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,3.2,2010-11-01,%,Food Inflation (%),False,False
+2010-11-01,inflation_rate,6.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,6.4,2010-11-01,%,"Inflation, consumer prices (annual %)",False,False
+2010-11-01,non_food_inflation_rate,9.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.8,2010-11-01,%,Non-Food Inflation (%),False,False
+2010-12-01,consumer_price_index,319.8,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,319.8,2010-12-01,Index,CPI Index (Overall),False,False
+2010-12-01,food_inflation_rate,2.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,2.9,2010-12-01,%,Food Inflation (%),False,False
+2010-12-01,inflation_rate,6.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,6.3,2010-12-01,%,"Inflation, consumer prices (annual %)",False,False
+2010-12-01,non_food_inflation_rate,9.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.9,2010-12-01,%,Non-Food Inflation (%),False,False
+2011-01-01,consumer_price_index,338.5,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,338.5,2011-01-01,Index,CPI Index (Overall),False,False
+2011-01-01,food_inflation_rate,2.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,2.9,2011-01-01,%,Food Inflation (%),False,False
+2011-01-01,inflation_rate,6.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,6.6,2011-01-01,%,"Inflation, consumer prices (annual %)",False,False
+2011-01-01,non_food_inflation_rate,10.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.7,2011-01-01,%,Non-Food Inflation (%),False,False
+2011-02-01,consumer_price_index,351.0,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,351.0,2011-02-01,Index,CPI Index (Overall),False,False
+2011-02-01,food_inflation_rate,3.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,3.6,2011-02-01,%,Food Inflation (%),False,False
+2011-02-01,inflation_rate,7.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.0,2011-02-01,%,"Inflation, consumer prices (annual %)",False,False
+2011-02-01,non_food_inflation_rate,11.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,11.1,2011-02-01,%,Non-Food Inflation (%),False,False
+2011-03-01,consumer_price_index,350.3,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,350.3,2011-03-01,Index,CPI Index (Overall),False,False
+2011-03-01,food_inflation_rate,3.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,3.7,2011-03-01,%,Food Inflation (%),False,False
+2011-03-01,inflation_rate,7.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.2,2011-03-01,%,"Inflation, consumer prices (annual %)",False,False
+2011-03-01,non_food_inflation_rate,11.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,11.3,2011-03-01,%,Non-Food Inflation (%),False,False
+2011-04-01,consumer_price_index,340.7,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,340.7,2011-04-01,Index,CPI Index (Overall),False,False
+2011-04-01,food_inflation_rate,3.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,3.3,2011-04-01,%,Food Inflation (%),False,False
+2011-04-01,inflation_rate,7.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.1,2011-04-01,%,"Inflation, consumer prices (annual %)",False,False
+2011-04-01,non_food_inflation_rate,11.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,11.4,2011-04-01,%,Non-Food Inflation (%),False,False
+2011-05-01,consumer_price_index,329.9,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,329.9,2011-05-01,Index,CPI Index (Overall),False,False
+2011-05-01,food_inflation_rate,2.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,2.7,2011-05-01,%,Food Inflation (%),False,False
+2011-05-01,inflation_rate,7.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.0,2011-05-01,%,"Inflation, consumer prices (annual %)",False,False
+2011-05-01,non_food_inflation_rate,11.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,11.7,2011-05-01,%,Non-Food Inflation (%),False,False
+2011-06-01,consumer_price_index,318.2,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,318.2,2011-06-01,Index,CPI Index (Overall),False,False
+2011-06-01,food_inflation_rate,2.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,2.2,2011-06-01,%,Food Inflation (%),False,False
+2011-06-01,inflation_rate,7.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.0,2011-06-01,%,"Inflation, consumer prices (annual %)",False,False
+2011-06-01,non_food_inflation_rate,11.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,11.8,2011-06-01,%,Non-Food Inflation (%),False,False
+2011-07-01,consumer_price_index,315.1,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,315.1,2011-07-01,Index,CPI Index (Overall),False,False
+2011-07-01,food_inflation_rate,2.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,2.4,2011-07-01,%,Food Inflation (%),False,False
+2011-07-01,inflation_rate,7.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.4,2011-07-01,%,"Inflation, consumer prices (annual %)",False,False
+2011-07-01,non_food_inflation_rate,12.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,12.2,2011-07-01,%,Non-Food Inflation (%),False,False
+2011-08-01,consumer_price_index,308.2,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,308.2,2011-08-01,Index,CPI Index (Overall),False,False
+2011-08-01,food_inflation_rate,2.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,2.4,2011-08-01,%,Food Inflation (%),False,False
+2011-08-01,inflation_rate,7.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.6,2011-08-01,%,"Inflation, consumer prices (annual %)",False,False
+2011-08-01,non_food_inflation_rate,12.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,12.4,2011-08-01,%,Non-Food Inflation (%),False,False
+2011-10-01,consumer_price_index,326.5,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,326.5,2011-10-01,Index,CPI Index (Overall),False,False
+2011-10-01,food_inflation_rate,2.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,2.9,2011-10-01,%,Food Inflation (%),False,False
+2011-10-01,inflation_rate,8.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.1,2011-10-01,%,"Inflation, consumer prices (annual %)",False,False
+2011-10-01,non_food_inflation_rate,13.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,13.1,2011-10-01,%,Non-Food Inflation (%),False,False
+2011-11-01,consumer_price_index,337.6,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,337.6,2011-11-01,Index,CPI Index (Overall),False,False
+2011-11-01,food_inflation_rate,3.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,3.5,2011-11-01,%,Food Inflation (%),False,False
+2011-11-01,inflation_rate,8.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.9,2011-11-01,%,"Inflation, consumer prices (annual %)",False,False
+2011-11-01,non_food_inflation_rate,14.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,14.2,2011-11-01,%,Non-Food Inflation (%),False,False
+2011-12-01,consumer_price_index,351.1,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,351.1,2011-12-01,Index,CPI Index (Overall),False,False
+2011-12-01,food_inflation_rate,5.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,5.2,2011-12-01,%,Food Inflation (%),False,False
+2011-12-01,inflation_rate,9.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.8,2011-12-01,%,"Inflation, consumer prices (annual %)",False,False
+2011-12-01,non_food_inflation_rate,14.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,14.6,2011-12-01,%,Non-Food Inflation (%),False,False
+2012-01-01,consumer_price_index,373.4,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,373.4,2012-01-01,Index,CPI Index (Overall),False,False
+2012-01-01,food_inflation_rate,6.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,6.1,2012-01-01,%,Food Inflation (%),False,False
+2012-01-01,inflation_rate,10.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.3,2012-01-01,%,"Inflation, consumer prices (annual %)",False,False
+2012-01-01,non_food_inflation_rate,14.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,14.9,2012-01-01,%,Non-Food Inflation (%),False,False
+2012-02-01,consumer_price_index,389.1,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,389.1,2012-02-01,Index,CPI Index (Overall),False,False
+2012-02-01,food_inflation_rate,6.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,6.8,2012-02-01,%,Food Inflation (%),False,False
+2012-02-01,inflation_rate,10.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.9,2012-02-01,%,"Inflation, consumer prices (annual %)",False,False
+2012-02-01,non_food_inflation_rate,15.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,15.5,2012-02-01,%,Non-Food Inflation (%),False,False
+2012-03-01,consumer_price_index,390.2,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,390.2,2012-03-01,Index,CPI Index (Overall),False,False
+2012-03-01,food_inflation_rate,7.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.5,2012-03-01,%,Food Inflation (%),False,False
+2012-03-01,inflation_rate,11.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,11.4,2012-03-01,%,"Inflation, consumer prices (annual %)",False,False
+2012-03-01,non_food_inflation_rate,15.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,15.8,2012-03-01,%,Non-Food Inflation (%),False,False
+2012-04-01,consumer_price_index,383.2,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,383.2,2012-04-01,Index,CPI Index (Overall),False,False
+2012-04-01,food_inflation_rate,8.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.9,2012-04-01,%,Food Inflation (%),False,False
+2012-04-01,inflation_rate,12.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,12.4,2012-04-01,%,"Inflation, consumer prices (annual %)",False,False
+2012-04-01,non_food_inflation_rate,16.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,16.1,2012-04-01,%,Non-Food Inflation (%),False,False
+2012-05-01,consumer_price_index,387.0,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,387.0,2012-05-01,Index,CPI Index (Overall),False,False
+2012-05-01,food_inflation_rate,12.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,12.7,2012-05-01,%,Food Inflation (%),False,False
+2012-05-01,inflation_rate,17.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,17.3,2012-05-01,%,"Inflation, consumer prices (annual %)",False,False
+2012-05-01,non_food_inflation_rate,21.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,21.8,2012-05-01,%,Non-Food Inflation (%),False,False
+2012-06-01,consumer_price_index,495.2,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,495.2,2012-06-01,Index,CPI Index (Overall),False,False
+2012-06-01,food_inflation_rate,17.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,17.3,2012-06-01,%,Food Inflation (%),False,False
+2012-06-01,inflation_rate,20.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,20.1,2012-06-01,%,"Inflation, consumer prices (annual %)",False,False
+2012-06-01,non_food_inflation_rate,22.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,22.7,2012-06-01,%,Non-Food Inflation (%),False,False
+2012-07-01,consumer_price_index,500.7,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,500.7,2012-07-01,Index,CPI Index (Overall),False,False
+2012-07-01,food_inflation_rate,20.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,20.2,2012-07-01,%,Food Inflation (%),False,False
+2012-07-01,inflation_rate,21.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,21.7,2012-07-01,%,"Inflation, consumer prices (annual %)",False,False
+2012-07-01,non_food_inflation_rate,23.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,23.0,2012-07-01,%,Non-Food Inflation (%),False,False
+2012-08-01,consumer_price_index,503.4,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,503.4,2012-08-01,Index,CPI Index (Overall),False,False
+2012-08-01,food_inflation_rate,26.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,26.0,2012-08-01,%,Food Inflation (%),False,False
+2012-08-01,inflation_rate,25.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,25.5,2012-08-01,%,"Inflation, consumer prices (annual %)",False,False
+2012-08-01,non_food_inflation_rate,25.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,25.1,2012-08-01,%,Non-Food Inflation (%),False,False
+2012-11-01,consumer_price_index,450.0,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,450.0,2012-11-01,Index,CPI Index (Overall),False,False
+2012-11-01,food_inflation_rate,33.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,33.4,2012-11-01,%,Food Inflation (%),False,False
+2012-11-01,inflation_rate,33.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,33.3,2012-11-01,%,"Inflation, consumer prices (annual %)",False,False
+2012-11-01,non_food_inflation_rate,33.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,33.2,2012-11-01,%,Non-Food Inflation (%),False,False
+2012-12-01,consumer_price_index,412.9,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,412.9,2012-12-01,Index,CPI Index (Overall),False,False
+2012-12-01,food_inflation_rate,34.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,34.6,2012-12-01,%,Food Inflation (%),False,False
+2012-12-01,inflation_rate,34.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,34.6,2012-12-01,%,"Inflation, consumer prices (annual %)",False,False
+2012-12-01,non_food_inflation_rate,34.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,34.5,2012-12-01,%,Non-Food Inflation (%),False,False
+2013-01-01,consumer_price_index,121.6,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,121.6,2013-01-01,Index,CPI Index (Overall),False,False
+2013-01-01,food_inflation_rate,34.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,34.2,2013-01-01,%,Food Inflation (%),False,False
+2013-01-01,inflation_rate,35.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,35.1,2013-01-01,%,"Inflation, consumer prices (annual %)",False,False
+2013-01-01,non_food_inflation_rate,36.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,36.0,2013-01-01,%,Non-Food Inflation (%),False,False
+2013-02-01,consumer_price_index,129.7,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,129.7,2013-02-01,Index,CPI Index (Overall),False,False
+2013-02-01,food_inflation_rate,38.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,38.2,2013-02-01,%,Food Inflation (%),False,False
+2013-02-01,inflation_rate,37.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,37.9,2013-02-01,%,"Inflation, consumer prices (annual %)",False,False
+2013-02-01,non_food_inflation_rate,37.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,37.6,2013-02-01,%,Non-Food Inflation (%),False,False
+2013-03-01,consumer_price_index,129.9,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,129.9,2013-03-01,Index,CPI Index (Overall),False,False
+2013-03-01,food_inflation_rate,34.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,34.9,2013-03-01,%,Food Inflation (%),False,False
+2013-03-01,inflation_rate,36.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,36.4,2013-03-01,%,"Inflation, consumer prices (annual %)",False,False
+2013-03-01,non_food_inflation_rate,37.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,37.9,2013-03-01,%,Non-Food Inflation (%),False,False
+2013-04-01,consumer_price_index,127.2,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,127.2,2013-04-01,Index,CPI Index (Overall),False,False
+2013-04-01,food_inflation_rate,33.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,33.1,2013-04-01,%,Food Inflation (%),False,False
+2013-04-01,inflation_rate,35.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,35.8,2013-04-01,%,"Inflation, consumer prices (annual %)",False,False
+2013-04-01,non_food_inflation_rate,38.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,38.6,2013-04-01,%,Non-Food Inflation (%),False,False
+2013-05-01,consumer_price_index,127.0,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,127.0,2013-05-01,Index,CPI Index (Overall),False,False
+2013-05-01,food_inflation_rate,25.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,25.4,2013-05-01,%,Food Inflation (%),False,False
+2013-05-01,inflation_rate,31.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,31.0,2013-05-01,%,"Inflation, consumer prices (annual %)",False,False
+2013-05-01,non_food_inflation_rate,36.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,36.6,2013-05-01,%,Non-Food Inflation (%),False,False
+2013-06-01,consumer_price_index,122.3,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,122.3,2013-06-01,Index,CPI Index (Overall),False,False
+2013-06-01,food_inflation_rate,23.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,23.5,2013-06-01,%,Food Inflation (%),False,False
+2013-06-01,inflation_rate,27.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,27.9,2013-06-01,%,"Inflation, consumer prices (annual %)",False,False
+2013-06-01,non_food_inflation_rate,32.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,32.5,2013-06-01,%,Non-Food Inflation (%),False,False
+2013-07-01,consumer_price_index,119.8,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,119.8,2013-07-01,Index,CPI Index (Overall),False,False
+2013-07-01,food_inflation_rate,19.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,19.7,2013-07-01,%,Food Inflation (%),False,False
+2013-07-01,inflation_rate,25.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,25.2,2013-07-01,%,"Inflation, consumer prices (annual %)",False,False
+2013-07-01,non_food_inflation_rate,30.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,30.7,2013-07-01,%,Non-Food Inflation (%),False,False
+2013-08-01,consumer_price_index,119.1,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,119.1,2013-08-01,Index,CPI Index (Overall),False,False
+2013-08-01,food_inflation_rate,17.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,17.8,2013-08-01,%,Food Inflation (%),False,False
+2013-08-01,inflation_rate,23.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,23.3,2013-08-01,%,"Inflation, consumer prices (annual %)",False,False
+2013-08-01,non_food_inflation_rate,28.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,28.9,2013-08-01,%,Non-Food Inflation (%),False,False
+2013-09-01,consumer_price_index,126.0,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,126.0,2013-09-01,Index,CPI Index (Overall),False,False
+2013-09-01,food_inflation_rate,19.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,19.2,2013-09-01,%,Food Inflation (%),False,False
+2013-09-01,inflation_rate,21.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,21.7,2013-09-01,%,"Inflation, consumer prices (annual %)",False,False
+2013-09-01,non_food_inflation_rate,24.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,24.2,2013-09-01,%,Non-Food Inflation (%),False,False
+2013-10-01,consumer_price_index,129.1,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,129.1,2013-10-01,Index,CPI Index (Overall),False,False
+2013-10-01,food_inflation_rate,19.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,19.4,2013-10-01,%,Food Inflation (%),False,False
+2013-10-01,inflation_rate,22.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,22.2,2013-10-01,%,"Inflation, consumer prices (annual %)",False,False
+2013-10-01,non_food_inflation_rate,23.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,23.9,2013-10-01,%,Non-Food Inflation (%),False,False
+2013-11-01,consumer_price_index,135.1,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,135.1,2013-11-01,Index,CPI Index (Overall),False,False
+2013-11-01,food_inflation_rate,21.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,21.3,2013-11-01,%,Food Inflation (%),False,False
+2013-11-01,inflation_rate,22.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,22.9,2013-11-01,%,"Inflation, consumer prices (annual %)",False,False
+2013-11-01,non_food_inflation_rate,24.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,24.6,2013-11-01,%,Non-Food Inflation (%),False,False
+2013-12-01,consumer_price_index,140.6,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,140.6,2013-12-01,Index,CPI Index (Overall),False,False
+2013-12-01,food_inflation_rate,22.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,22.0,2013-12-01,%,Food Inflation (%),False,False
+2013-12-01,inflation_rate,23.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,23.5,2013-12-01,%,"Inflation, consumer prices (annual %)",False,False
+2013-12-01,non_food_inflation_rate,25.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,25.1,2013-12-01,%,Non-Food Inflation (%),False,False
+2014-01-01,consumer_price_index,153.1,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,153.1,2014-01-01,Index,CPI Index (Overall),False,False
+2014-01-01,food_inflation_rate,24.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,24.1,2014-01-01,%,Food Inflation (%),False,False
+2014-01-01,inflation_rate,25.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,25.9,2014-01-01,%,"Inflation, consumer prices (annual %)",False,False
+2014-01-01,non_food_inflation_rate,30.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,30.7,2014-01-01,%,Non-Food Inflation (%),False,False
+2014-02-01,consumer_price_index,161.6,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,161.6,2014-02-01,Index,CPI Index (Overall),False,False
+2014-02-01,food_inflation_rate,20.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,20.4,2014-02-01,%,Food Inflation (%),False,False
+2014-02-01,inflation_rate,24.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,24.6,2014-02-01,%,"Inflation, consumer prices (annual %)",False,False
+2014-02-01,non_food_inflation_rate,29.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,29.3,2014-02-01,%,Non-Food Inflation (%),False,False
+2014-03-01,consumer_price_index,161.2,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,161.2,2014-03-01,Index,CPI Index (Overall),False,False
+2014-03-01,food_inflation_rate,19.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,19.6,2014-03-01,%,Food Inflation (%),False,False
+2014-03-01,inflation_rate,24.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,24.0,2014-03-01,%,"Inflation, consumer prices (annual %)",False,False
+2014-03-01,non_food_inflation_rate,28.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,28.9,2014-03-01,%,Non-Food Inflation (%),False,False
+2014-04-01,consumer_price_index,157.7,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,157.7,2014-04-01,Index,CPI Index (Overall),False,False
+2014-04-01,food_inflation_rate,19.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,19.5,2014-04-01,%,Food Inflation (%),False,False
+2014-04-01,inflation_rate,23.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,23.9,2014-04-01,%,"Inflation, consumer prices (annual %)",False,False
+2014-04-01,non_food_inflation_rate,28.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,28.5,2014-04-01,%,Non-Food Inflation (%),False,False
+2014-05-01,consumer_price_index,165.5,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,165.5,2014-05-01,Index,CPI Index (Overall),False,False
+2014-05-01,food_inflation_rate,19.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,19.4,2014-05-01,%,Food Inflation (%),False,False
+2014-05-01,inflation_rate,22.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,22.6,2014-05-01,%,"Inflation, consumer prices (annual %)",False,False
+2014-05-01,non_food_inflation_rate,26.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,26.4,2014-05-01,%,Non-Food Inflation (%),False,False
+2014-06-01,consumer_price_index,149.9,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,149.9,2014-06-01,Index,CPI Index (Overall),False,False
+2014-06-01,food_inflation_rate,19.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,19.9,2014-06-01,%,Food Inflation (%),False,False
+2014-06-01,inflation_rate,22.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,22.5,2014-06-01,%,"Inflation, consumer prices (annual %)",False,False
+2014-06-01,non_food_inflation_rate,25.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,25.7,2014-06-01,%,Non-Food Inflation (%),False,False
+2014-07-01,consumer_price_index,146.6,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,146.6,2014-07-01,Index,CPI Index (Overall),False,False
+2014-07-01,food_inflation_rate,20.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,20.3,2014-07-01,%,Food Inflation (%),False,False
+2014-07-01,inflation_rate,22.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,22.3,2014-07-01,%,"Inflation, consumer prices (annual %)",False,False
+2014-07-01,non_food_inflation_rate,24.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,24.9,2014-07-01,%,Non-Food Inflation (%),False,False
+2014-08-01,consumer_price_index,148.3,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,148.3,2014-08-01,Index,CPI Index (Overall),False,False
+2014-08-01,food_inflation_rate,24.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,24.0,2014-08-01,%,Food Inflation (%),False,False
+2014-08-01,inflation_rate,24.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,24.5,2014-08-01,%,"Inflation, consumer prices (annual %)",False,False
+2014-08-01,non_food_inflation_rate,25.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,25.8,2014-08-01,%,Non-Food Inflation (%),False,False
+2014-09-01,consumer_price_index,155.9,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,155.9,2014-09-01,Index,CPI Index (Overall),False,False
+2014-09-01,food_inflation_rate,22.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,22.7,2014-09-01,%,Food Inflation (%),False,False
+2014-09-01,inflation_rate,23.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,23.7,2014-09-01,%,"Inflation, consumer prices (annual %)",False,False
+2014-09-01,non_food_inflation_rate,25.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,25.4,2014-09-01,%,Non-Food Inflation (%),False,False
+2014-10-01,consumer_price_index,159.2,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,159.2,2014-10-01,Index,CPI Index (Overall),False,False
+2014-10-01,food_inflation_rate,21.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,21.5,2014-10-01,%,Food Inflation (%),False,False
+2014-10-01,inflation_rate,23.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,23.3,2014-10-01,%,"Inflation, consumer prices (annual %)",False,False
+2014-10-01,non_food_inflation_rate,25.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,25.6,2014-10-01,%,Non-Food Inflation (%),False,False
+2014-11-01,consumer_price_index,167.1,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,167.1,2014-11-01,Index,CPI Index (Overall),False,False
+2014-11-01,food_inflation_rate,21.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,21.3,2014-11-01,%,Food Inflation (%),False,False
+2014-11-01,inflation_rate,23.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,23.7,2014-11-01,%,"Inflation, consumer prices (annual %)",False,False
+2014-11-01,non_food_inflation_rate,26.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,26.7,2014-11-01,%,Non-Food Inflation (%),False,False
+2014-12-01,consumer_price_index,174.5,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,174.5,2014-12-01,Index,CPI Index (Overall),False,False
+2014-12-01,food_inflation_rate,22.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,22.1,2014-12-01,%,Food Inflation (%),False,False
+2014-12-01,inflation_rate,24.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,24.2,2014-12-01,%,"Inflation, consumer prices (annual %)",False,False
+2014-12-01,non_food_inflation_rate,27.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,27.2,2014-12-01,%,Non-Food Inflation (%),False,False
+2015-01-01,consumer_price_index,185.6,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,185.6,2015-01-01,Index,CPI Index (Overall),False,False
+2015-01-01,food_inflation_rate,21.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,21.5,2015-01-01,%,Food Inflation (%),False,False
+2015-01-01,inflation_rate,21.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,21.2,2015-01-01,%,"Inflation, consumer prices (annual %)",False,False
+2015-01-01,non_food_inflation_rate,20.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,20.8,2015-01-01,%,Non-Food Inflation (%),False,False
+2015-02-01,consumer_price_index,193.5,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,193.5,2015-02-01,Index,CPI Index (Overall),False,False
+2015-02-01,food_inflation_rate,19.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,19.0,2015-02-01,%,Food Inflation (%),False,False
+2015-02-01,inflation_rate,19.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,19.7,2015-02-01,%,"Inflation, consumer prices (annual %)",False,False
+2015-02-01,non_food_inflation_rate,20.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,20.4,2015-02-01,%,Non-Food Inflation (%),False,False
+2015-03-01,consumer_price_index,190.5,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,190.5,2015-03-01,Index,CPI Index (Overall),False,False
+2015-03-01,food_inflation_rate,17.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,17.0,2015-03-01,%,Food Inflation (%),False,False
+2015-03-01,inflation_rate,18.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,18.2,2015-03-01,%,"Inflation, consumer prices (annual %)",False,False
+2015-03-01,non_food_inflation_rate,19.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,19.3,2015-03-01,%,Non-Food Inflation (%),False,False
+2015-04-01,consumer_price_index,187.4,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,187.4,2015-04-01,Index,CPI Index (Overall),False,False
+2015-04-01,food_inflation_rate,18.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,18.1,2015-04-01,%,Food Inflation (%),False,False
+2015-04-01,inflation_rate,18.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,18.8,2015-04-01,%,"Inflation, consumer prices (annual %)",False,False
+2015-04-01,non_food_inflation_rate,19.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,19.5,2015-04-01,%,Non-Food Inflation (%),False,False
+2015-05-01,consumer_price_index,186.1,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,186.1,2015-05-01,Index,CPI Index (Overall),False,False
+2015-05-01,food_inflation_rate,21.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,21.4,2015-05-01,%,Food Inflation (%),False,False
+2015-05-01,inflation_rate,19.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,19.5,2015-05-01,%,"Inflation, consumer prices (annual %)",False,False
+2015-05-01,non_food_inflation_rate,17.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,17.8,2015-05-01,%,Non-Food Inflation (%),False,False
+2015-06-01,consumer_price_index,181.7,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,181.7,2015-06-01,Index,CPI Index (Overall),False,False
+2015-06-01,food_inflation_rate,24.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,24.2,2015-06-01,%,Food Inflation (%),False,False
+2015-06-01,inflation_rate,21.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,21.3,2015-06-01,%,"Inflation, consumer prices (annual %)",False,False
+2015-06-01,non_food_inflation_rate,18.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,18.8,2015-06-01,%,Non-Food Inflation (%),False,False
+2015-07-01,consumer_price_index,179.1,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,179.1,2015-07-01,Index,CPI Index (Overall),False,False
+2015-07-01,food_inflation_rate,25.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,25.3,2015-07-01,%,Food Inflation (%),False,False
+2015-07-01,inflation_rate,22.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,22.2,2015-07-01,%,"Inflation, consumer prices (annual %)",False,False
+2015-07-01,non_food_inflation_rate,19.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,19.6,2015-07-01,%,Non-Food Inflation (%),False,False
+2015-08-01,consumer_price_index,182.4,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,182.4,2015-08-01,Index,CPI Index (Overall),False,False
+2015-08-01,food_inflation_rate,26.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,26.8,2015-08-01,%,Food Inflation (%),False,False
+2015-08-01,inflation_rate,23.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,23.0,2015-08-01,%,"Inflation, consumer prices (annual %)",False,False
+2015-08-01,non_food_inflation_rate,19.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,19.9,2015-08-01,%,Non-Food Inflation (%),False,False
+2015-09-01,consumer_price_index,193.5,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,193.5,2015-09-01,Index,CPI Index (Overall),False,False
+2015-09-01,food_inflation_rate,27.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,27.3,2015-09-01,%,Food Inflation (%),False,False
+2015-09-01,inflation_rate,24.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,24.1,2015-09-01,%,"Inflation, consumer prices (annual %)",False,False
+2015-09-01,non_food_inflation_rate,21.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,21.3,2015-09-01,%,Non-Food Inflation (%),False,False
+2015-10-01,consumer_price_index,198.5,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,198.5,2015-10-01,Index,CPI Index (Overall),False,False
+2015-10-01,food_inflation_rate,28.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,28.3,2015-10-01,%,Food Inflation (%),False,False
+2015-10-01,inflation_rate,24.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,24.7,2015-10-01,%,"Inflation, consumer prices (annual %)",False,False
+2015-10-01,non_food_inflation_rate,21.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,21.4,2015-10-01,%,Non-Food Inflation (%),False,False
+2015-11-01,consumer_price_index,208.2,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,208.2,2015-11-01,Index,CPI Index (Overall),False,False
+2015-11-01,food_inflation_rate,28.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,28.9,2015-11-01,%,Food Inflation (%),False,False
+2015-11-01,inflation_rate,24.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,24.6,2015-11-01,%,"Inflation, consumer prices (annual %)",False,False
+2015-11-01,non_food_inflation_rate,20.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,20.6,2015-11-01,%,Non-Food Inflation (%),False,False
+2015-12-01,consumer_price_index,217.9,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,217.9,2015-12-01,Index,CPI Index (Overall),False,False
+2015-12-01,food_inflation_rate,29.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,29.2,2015-12-01,%,Food Inflation (%),False,False
+2015-12-01,inflation_rate,24.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,24.9,2015-12-01,%,"Inflation, consumer prices (annual %)",False,False
+2015-12-01,non_food_inflation_rate,20.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,20.7,2015-12-01,%,Non-Food Inflation (%),False,False
+2016-01-01,consumer_price_index,229.2,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,229.2,2016-01-01,Index,CPI Index (Overall),False,False
+2016-01-01,food_inflation_rate,28.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,28.4,2016-01-01,%,Food Inflation (%),False,False
+2016-01-01,inflation_rate,23.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,23.5,2016-01-01,%,"Inflation, consumer prices (annual %)",False,False
+2016-01-01,non_food_inflation_rate,18.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,18.5,2016-01-01,%,Non-Food Inflation (%),False,False
+2016-02-01,consumer_price_index,238.6,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,238.6,2016-02-01,Index,CPI Index (Overall),False,False
+2016-02-01,food_inflation_rate,28.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,28.6,2016-02-01,%,Food Inflation (%),False,False
+2016-02-01,inflation_rate,23.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,23.4,2016-02-01,%,"Inflation, consumer prices (annual %)",False,False
+2016-02-01,non_food_inflation_rate,17.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,17.9,2016-02-01,%,Non-Food Inflation (%),False,False
+2016-03-01,consumer_price_index,232.5,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,232.5,2016-03-01,Index,CPI Index (Overall),False,False
+2016-03-01,food_inflation_rate,26.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,26.5,2016-03-01,%,Food Inflation (%),False,False
+2016-03-01,inflation_rate,22.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,22.1,2016-03-01,%,"Inflation, consumer prices (annual %)",False,False
+2016-03-01,non_food_inflation_rate,17.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,17.8,2016-03-01,%,Non-Food Inflation (%),False,False
+2016-04-01,consumer_price_index,226.6,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,226.6,2016-04-01,Index,CPI Index (Overall),False,False
+2016-04-01,food_inflation_rate,24.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,24.3,2016-04-01,%,Food Inflation (%),False,False
+2016-04-01,inflation_rate,20.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,20.9,2016-04-01,%,"Inflation, consumer prices (annual %)",False,False
+2016-04-01,non_food_inflation_rate,17.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,17.7,2016-04-01,%,Non-Food Inflation (%),False,False
+2016-05-01,consumer_price_index,226.0,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,226.0,2016-05-01,Index,CPI Index (Overall),False,False
+2016-05-01,food_inflation_rate,25.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,25.7,2016-05-01,%,Food Inflation (%),False,False
+2016-05-01,inflation_rate,21.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,21.5,2016-05-01,%,"Inflation, consumer prices (annual %)",False,False
+2016-05-01,non_food_inflation_rate,17.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,17.6,2016-05-01,%,Non-Food Inflation (%),False,False
+2016-06-01,consumer_price_index,222.9,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,222.9,2016-06-01,Index,CPI Index (Overall),False,False
+2016-06-01,food_inflation_rate,27.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,27.7,2016-06-01,%,Food Inflation (%),False,False
+2016-06-01,inflation_rate,22.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,22.6,2016-06-01,%,"Inflation, consumer prices (annual %)",False,False
+2016-06-01,non_food_inflation_rate,18.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,18.2,2016-06-01,%,Non-Food Inflation (%),False,False
+2016-07-01,consumer_price_index,221.1,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,221.1,2016-07-01,Index,CPI Index (Overall),False,False
+2016-07-01,food_inflation_rate,29.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,29.2,2016-07-01,%,Food Inflation (%),False,False
+2016-07-01,inflation_rate,23.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,23.5,2016-07-01,%,"Inflation, consumer prices (annual %)",False,False
+2016-07-01,non_food_inflation_rate,18.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,18.7,2016-07-01,%,Non-Food Inflation (%),False,False
+2016-08-01,consumer_price_index,223.9,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,223.9,2016-08-01,Index,CPI Index (Overall),False,False
+2016-08-01,food_inflation_rate,28.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,28.7,2016-08-01,%,Food Inflation (%),False,False
+2016-08-01,inflation_rate,22.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,22.8,2016-08-01,%,"Inflation, consumer prices (annual %)",False,False
+2016-08-01,non_food_inflation_rate,17.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,17.8,2016-08-01,%,Non-Food Inflation (%),False,False
+2016-09-01,consumer_price_index,234.4,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,234.4,2016-09-01,Index,CPI Index (Overall),False,False
+2016-09-01,food_inflation_rate,27.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,27.0,2016-09-01,%,Food Inflation (%),False,False
+2016-09-01,inflation_rate,21.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,21.2,2016-09-01,%,"Inflation, consumer prices (annual %)",False,False
+2016-09-01,non_food_inflation_rate,15.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,15.9,2016-09-01,%,Non-Food Inflation (%),False,False
+2016-10-01,consumer_price_index,238.3,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,238.3,2016-10-01,Index,CPI Index (Overall),False,False
+2016-10-01,food_inflation_rate,25.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,25.4,2016-10-01,%,Food Inflation (%),False,False
+2016-10-01,inflation_rate,20.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,20.1,2016-10-01,%,"Inflation, consumer prices (annual %)",False,False
+2016-10-01,non_food_inflation_rate,15.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,15.2,2016-10-01,%,Non-Food Inflation (%),False,False
+2016-11-01,consumer_price_index,249.7,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,249.7,2016-11-01,Index,CPI Index (Overall),False,False
+2016-11-01,food_inflation_rate,24.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,24.8,2016-11-01,%,Food Inflation (%),False,False
+2016-11-01,inflation_rate,19.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,19.9,2016-11-01,%,"Inflation, consumer prices (annual %)",False,False
+2016-11-01,non_food_inflation_rate,15.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,15.2,2016-11-01,%,Non-Food Inflation (%),False,False
+2016-12-01,consumer_price_index,261.4,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,261.4,2016-12-01,Index,CPI Index (Overall),False,False
+2016-12-01,food_inflation_rate,24.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,24.4,2016-12-01,%,Food Inflation (%),False,False
+2016-12-01,inflation_rate,20.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,20.0,2016-12-01,%,"Inflation, consumer prices (annual %)",False,False
+2016-12-01,non_food_inflation_rate,15.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,15.4,2016-12-01,%,Non-Food Inflation (%),False,False
+2017-01-01,consumer_price_index,270.7,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,270.7,2017-01-01,Index,CPI Index (Overall),False,False
+2017-01-01,food_inflation_rate,21.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,21.1,2017-01-01,%,Food Inflation (%),False,False
+2017-01-01,inflation_rate,18.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,18.2,2017-01-01,%,"Inflation, consumer prices (annual %)",False,False
+2017-01-01,non_food_inflation_rate,15.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,15.0,2017-01-01,%,Non-Food Inflation (%),False,False
+2017-02-01,consumer_price_index,277.1,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,277.1,2017-02-01,Index,CPI Index (Overall),False,False
+2017-02-01,food_inflation_rate,17.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,17.5,2017-02-01,%,Food Inflation (%),False,False
+2017-02-01,inflation_rate,16.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,16.1,2017-02-01,%,"Inflation, consumer prices (annual %)",False,False
+2017-02-01,non_food_inflation_rate,14.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,14.6,2017-02-01,%,Non-Food Inflation (%),False,False
+2017-03-01,consumer_price_index,269.3,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,269.3,2017-03-01,Index,CPI Index (Overall),False,False
+2017-03-01,food_inflation_rate,17.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,17.0,2017-03-01,%,Food Inflation (%),False,False
+2017-03-01,inflation_rate,15.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,15.8,2017-03-01,%,"Inflation, consumer prices (annual %)",False,False
+2017-03-01,non_food_inflation_rate,14.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,14.5,2017-03-01,%,Non-Food Inflation (%),False,False
+2017-04-01,consumer_price_index,259.7,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,259.7,2017-04-01,Index,CPI Index (Overall),False,False
+2017-04-01,food_inflation_rate,14.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,14.7,2017-04-01,%,Food Inflation (%),False,False
+2017-04-01,inflation_rate,14.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,14.6,2017-04-01,%,"Inflation, consumer prices (annual %)",False,False
+2017-04-01,non_food_inflation_rate,14.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,14.5,2017-04-01,%,Non-Food Inflation (%),False,False
+2017-05-01,consumer_price_index,253.9,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,253.9,2017-05-01,Index,CPI Index (Overall),False,False
+2017-05-01,food_inflation_rate,11.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,11.2,2017-05-01,%,Food Inflation (%),False,False
+2017-05-01,inflation_rate,12.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,12.3,2017-05-01,%,"Inflation, consumer prices (annual %)",False,False
+2017-05-01,non_food_inflation_rate,13.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,13.5,2017-05-01,%,Non-Food Inflation (%),False,False
+2017-06-01,consumer_price_index,248.1,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,248.1,2017-06-01,Index,CPI Index (Overall),False,False
+2017-06-01,food_inflation_rate,9.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.3,2017-06-01,%,Food Inflation (%),False,False
+2017-06-01,inflation_rate,11.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,11.3,2017-06-01,%,"Inflation, consumer prices (annual %)",False,False
+2017-06-01,non_food_inflation_rate,13.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,13.2,2017-06-01,%,Non-Food Inflation (%),False,False
+2017-07-01,consumer_price_index,243.6,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,243.6,2017-07-01,Index,CPI Index (Overall),False,False
+2017-07-01,food_inflation_rate,7.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.4,2017-07-01,%,Food Inflation (%),False,False
+2017-07-01,inflation_rate,10.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.2,2017-07-01,%,"Inflation, consumer prices (annual %)",False,False
+2017-07-01,non_food_inflation_rate,12.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,12.7,2017-07-01,%,Non-Food Inflation (%),False,False
+2017-08-01,consumer_price_index,244.8,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,244.8,2017-08-01,Index,CPI Index (Overall),False,False
+2017-08-01,food_inflation_rate,6.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,6.2,2017-08-01,%,Food Inflation (%),False,False
+2017-08-01,inflation_rate,9.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.3,2017-08-01,%,"Inflation, consumer prices (annual %)",False,False
+2017-08-01,non_food_inflation_rate,12.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,12.2,2017-08-01,%,Non-Food Inflation (%),False,False
+2017-09-01,consumer_price_index,254.2,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,254.2,2017-09-01,Index,CPI Index (Overall),False,False
+2017-09-01,food_inflation_rate,5.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,5.1,2017-09-01,%,Food Inflation (%),False,False
+2017-09-01,inflation_rate,8.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.4,2017-09-01,%,"Inflation, consumer prices (annual %)",False,False
+2017-09-01,non_food_inflation_rate,11.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,11.6,2017-09-01,%,Non-Food Inflation (%),False,False
+2017-10-01,consumer_price_index,258.0,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,258.0,2017-10-01,Index,CPI Index (Overall),False,False
+2017-10-01,food_inflation_rate,4.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,4.8,2017-10-01,%,Food Inflation (%),False,False
+2017-10-01,inflation_rate,8.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.3,2017-10-01,%,"Inflation, consumer prices (annual %)",False,False
+2017-10-01,non_food_inflation_rate,11.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,11.7,2017-10-01,%,Non-Food Inflation (%),False,False
+2017-11-01,consumer_price_index,269.0,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,269.0,2017-11-01,Index,CPI Index (Overall),False,False
+2017-11-01,food_inflation_rate,4.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,4.7,2017-11-01,%,Food Inflation (%),False,False
+2017-11-01,inflation_rate,7.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.7,2017-11-01,%,"Inflation, consumer prices (annual %)",False,False
+2017-11-01,non_food_inflation_rate,11.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,11.0,2017-11-01,%,Non-Food Inflation (%),False,False
+2017-12-01,consumer_price_index,279.9,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,279.9,2017-12-01,Index,CPI Index (Overall),False,False
+2017-12-01,food_inflation_rate,4.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,4.3,2017-12-01,%,Food Inflation (%),False,False
+2017-12-01,inflation_rate,7.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.1,2017-12-01,%,"Inflation, consumer prices (annual %)",False,False
+2017-12-01,non_food_inflation_rate,10.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.0,2017-12-01,%,Non-Food Inflation (%),False,False
+2018-01-01,consumer_price_index,105.4,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,105.4,2018-01-01,Index,CPI Index (Overall),False,False
+2018-01-01,food_inflation_rate,7.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.6,2018-01-01,%,Food Inflation (%),False,False
+2018-01-01,inflation_rate,8.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.1,2018-01-01,%,"Inflation, consumer prices (annual %)",False,False
+2018-01-01,non_food_inflation_rate,9.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.6,2018-01-01,%,Non-Food Inflation (%),False,False
+2018-02-01,consumer_price_index,106.8,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,106.8,2018-02-01,Index,CPI Index (Overall),False,False
+2018-02-01,food_inflation_rate,7.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.3,2018-02-01,%,Food Inflation (%),False,False
+2018-02-01,inflation_rate,7.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.8,2018-02-01,%,"Inflation, consumer prices (annual %)",False,False
+2018-02-01,non_food_inflation_rate,9.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.4,2018-02-01,%,Non-Food Inflation (%),False,False
+2018-03-01,consumer_price_index,105.8,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,105.8,2018-03-01,Index,CPI Index (Overall),False,False
+2018-03-01,food_inflation_rate,10.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.6,2018-03-01,%,Food Inflation (%),False,False
+2018-03-01,inflation_rate,9.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.9,2018-03-01,%,"Inflation, consumer prices (annual %)",False,False
+2018-03-01,non_food_inflation_rate,9.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.7,2018-03-01,%,Non-Food Inflation (%),False,False
+2018-04-01,consumer_price_index,101.8,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,101.8,2018-04-01,Index,CPI Index (Overall),False,False
+2018-04-01,food_inflation_rate,10.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.0,2018-04-01,%,Food Inflation (%),False,False
+2018-04-01,inflation_rate,9.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.7,2018-04-01,%,"Inflation, consumer prices (annual %)",False,False
+2018-04-01,non_food_inflation_rate,8.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.9,2018-04-01,%,Non-Food Inflation (%),False,False
+2018-05-01,consumer_price_index,101.2,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,101.2,2018-05-01,Index,CPI Index (Overall),False,False
+2018-05-01,food_inflation_rate,9.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.5,2018-05-01,%,Food Inflation (%),False,False
+2018-05-01,inflation_rate,8.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.9,2018-05-01,%,"Inflation, consumer prices (annual %)",False,False
+2018-05-01,non_food_inflation_rate,8.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.4,2018-05-01,%,Non-Food Inflation (%),False,False
+2018-06-01,consumer_price_index,101.0,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,101.0,2018-06-01,Index,CPI Index (Overall),False,False
+2018-06-01,food_inflation_rate,9.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.1,2018-06-01,%,Food Inflation (%),False,False
+2018-06-01,inflation_rate,8.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.6,2018-06-01,%,"Inflation, consumer prices (annual %)",False,False
+2018-06-01,non_food_inflation_rate,8.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.2,2018-06-01,%,Non-Food Inflation (%),False,False
+2018-07-01,consumer_price_index,101.6,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,101.6,2018-07-01,Index,CPI Index (Overall),False,False
+2018-07-01,food_inflation_rate,9.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.5,2018-07-01,%,Food Inflation (%),False,False
+2018-07-01,inflation_rate,9.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.0,2018-07-01,%,"Inflation, consumer prices (annual %)",False,False
+2018-07-01,non_food_inflation_rate,8.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.7,2018-07-01,%,Non-Food Inflation (%),False,False
+2018-08-01,consumer_price_index,103.0,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,103.0,2018-08-01,Index,CPI Index (Overall),False,False
+2018-08-01,food_inflation_rate,10.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.1,2018-08-01,%,Food Inflation (%),False,False
+2018-08-01,inflation_rate,9.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.3,2018-08-01,%,"Inflation, consumer prices (annual %)",False,False
+2018-08-01,non_food_inflation_rate,8.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.7,2018-08-01,%,Non-Food Inflation (%),False,False
+2018-09-01,consumer_price_index,105.1,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,105.1,2018-09-01,Index,CPI Index (Overall),False,False
+2018-09-01,food_inflation_rate,10.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.2,2018-09-01,%,Food Inflation (%),False,False
+2018-09-01,inflation_rate,9.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.5,2018-09-01,%,"Inflation, consumer prices (annual %)",False,False
+2018-09-01,non_food_inflation_rate,8.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.9,2018-09-01,%,Non-Food Inflation (%),False,False
+2018-10-01,consumer_price_index,107.1,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,107.1,2018-10-01,Index,CPI Index (Overall),False,False
+2018-10-01,food_inflation_rate,10.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.4,2018-10-01,%,Food Inflation (%),False,False
+2018-10-01,inflation_rate,9.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.7,2018-10-01,%,"Inflation, consumer prices (annual %)",False,False
+2018-10-01,non_food_inflation_rate,9.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.2,2018-10-01,%,Non-Food Inflation (%),False,False
+2018-11-01,consumer_price_index,108.7,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,108.7,2018-11-01,Index,CPI Index (Overall),False,False
+2018-11-01,food_inflation_rate,10.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.8,2018-11-01,%,Food Inflation (%),False,False
+2018-11-01,inflation_rate,10.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.1,2018-11-01,%,"Inflation, consumer prices (annual %)",False,False
+2018-11-01,non_food_inflation_rate,9.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.5,2018-11-01,%,Non-Food Inflation (%),False,False
+2018-12-01,consumer_price_index,109.9,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,109.9,2018-12-01,Index,CPI Index (Overall),False,False
+2018-12-01,food_inflation_rate,12.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,12.0,2018-12-01,%,Food Inflation (%),False,False
+2018-12-01,inflation_rate,9.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.9,2018-12-01,%,"Inflation, consumer prices (annual %)",False,False
+2018-12-01,non_food_inflation_rate,8.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.2,2018-12-01,%,Non-Food Inflation (%),False,False
+2019-01-01,consumer_price_index,113.7,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,113.7,2019-01-01,Index,CPI Index (Overall),False,False
+2019-01-01,food_inflation_rate,10.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.7,2019-01-01,%,Food Inflation (%),False,False
+2019-01-01,inflation_rate,8.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.8,2019-01-01,%,"Inflation, consumer prices (annual %)",False,False
+2019-01-01,non_food_inflation_rate,7.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.1,2019-01-01,%,Non-Food Inflation (%),False,False
+2019-02-01,consumer_price_index,115.2,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,115.2,2019-02-01,Index,CPI Index (Overall),False,False
+2019-02-01,food_inflation_rate,10.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.8,2019-02-01,%,Food Inflation (%),False,False
+2019-02-01,inflation_rate,7.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.9,2019-02-01,%,"Inflation, consumer prices (annual %)",False,False
+2019-02-01,non_food_inflation_rate,5.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,5.4,2019-02-01,%,Non-Food Inflation (%),False,False
+2019-03-01,consumer_price_index,115.6,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,115.6,2019-03-01,Index,CPI Index (Overall),False,False
+2019-03-01,food_inflation_rate,14.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,14.4,2019-03-01,%,Food Inflation (%),False,False
+2019-03-01,inflation_rate,9.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.3,2019-03-01,%,"Inflation, consumer prices (annual %)",False,False
+2019-03-01,non_food_inflation_rate,5.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,5.0,2019-03-01,%,Non-Food Inflation (%),False,False
+2019-04-01,consumer_price_index,111.1,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,111.1,2019-04-01,Index,CPI Index (Overall),False,False
+2019-04-01,food_inflation_rate,13.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,13.8,2019-04-01,%,Food Inflation (%),False,False
+2019-04-01,inflation_rate,9.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.1,2019-04-01,%,"Inflation, consumer prices (annual %)",False,False
+2019-04-01,non_food_inflation_rate,5.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,5.4,2019-04-01,%,Non-Food Inflation (%),False,False
+2019-05-01,consumer_price_index,110.2,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,110.2,2019-05-01,Index,CPI Index (Overall),False,False
+2019-05-01,food_inflation_rate,13.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,13.0,2019-05-01,%,Food Inflation (%),False,False
+2019-05-01,inflation_rate,8.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.9,2019-05-01,%,"Inflation, consumer prices (annual %)",False,False
+2019-05-01,non_food_inflation_rate,5.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,5.7,2019-05-01,%,Non-Food Inflation (%),False,False
+2019-06-01,consumer_price_index,110.0,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,110.0,2019-06-01,Index,CPI Index (Overall),False,False
+2019-06-01,food_inflation_rate,13.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,13.7,2019-06-01,%,Food Inflation (%),False,False
+2019-06-01,inflation_rate,9.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.0,2019-06-01,%,"Inflation, consumer prices (annual %)",False,False
+2019-06-01,non_food_inflation_rate,5.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,5.4,2019-06-01,%,Non-Food Inflation (%),False,False
+2019-07-01,consumer_price_index,111.0,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,111.0,2019-07-01,Index,CPI Index (Overall),False,False
+2019-07-01,food_inflation_rate,14.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,14.2,2019-07-01,%,Food Inflation (%),False,False
+2019-07-01,inflation_rate,9.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.3,2019-07-01,%,"Inflation, consumer prices (annual %)",False,False
+2019-07-01,non_food_inflation_rate,5.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,5.5,2019-07-01,%,Non-Food Inflation (%),False,False
+2019-08-01,consumer_price_index,112.8,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,112.8,2019-08-01,Index,CPI Index (Overall),False,False
+2019-08-01,food_inflation_rate,14.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,14.6,2019-08-01,%,Food Inflation (%),False,False
+2019-08-01,inflation_rate,9.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.5,2019-08-01,%,"Inflation, consumer prices (annual %)",False,False
+2019-08-01,non_food_inflation_rate,5.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,5.4,2019-08-01,%,Non-Food Inflation (%),False,False
+2019-09-01,consumer_price_index,114.8,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,114.8,2019-09-01,Index,CPI Index (Overall),False,False
+2019-09-01,food_inflation_rate,13.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,13.9,2019-09-01,%,Food Inflation (%),False,False
+2019-09-01,inflation_rate,9.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.2,2019-09-01,%,"Inflation, consumer prices (annual %)",False,False
+2019-09-01,non_food_inflation_rate,5.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,5.4,2019-09-01,%,Non-Food Inflation (%),False,False
+2019-10-01,consumer_price_index,117.3,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,117.3,2019-10-01,Index,CPI Index (Overall),False,False
+2019-10-01,food_inflation_rate,16.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,16.0,2019-10-01,%,Food Inflation (%),False,False
+2019-10-01,inflation_rate,9.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.6,2019-10-01,%,"Inflation, consumer prices (annual %)",False,False
+2019-10-01,non_food_inflation_rate,4.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,4.3,2019-10-01,%,Non-Food Inflation (%),False,False
+2019-11-01,consumer_price_index,119.9,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,119.9,2019-11-01,Index,CPI Index (Overall),False,False
+2019-11-01,food_inflation_rate,17.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,17.2,2019-11-01,%,Food Inflation (%),False,False
+2019-11-01,inflation_rate,10.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.4,2019-11-01,%,"Inflation, consumer prices (annual %)",False,False
+2019-11-01,non_food_inflation_rate,4.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,4.7,2019-11-01,%,Non-Food Inflation (%),False,False
+2019-12-01,consumer_price_index,122.6,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,122.6,2019-12-01,Index,CPI Index (Overall),False,False
+2019-12-01,food_inflation_rate,19.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,19.3,2019-12-01,%,Food Inflation (%),False,False
+2019-12-01,inflation_rate,11.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,11.5,2019-12-01,%,"Inflation, consumer prices (annual %)",False,False
+2019-12-01,non_food_inflation_rate,4.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,4.9,2019-12-01,%,Non-Food Inflation (%),False,False
+2020-01-01,consumer_price_index,126.3,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,126.3,2020-01-01,Index,CPI Index (Overall),False,False
+2020-01-01,food_inflation_rate,17.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,17.6,2020-01-01,%,Food Inflation (%),False,False
+2020-01-01,inflation_rate,11.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,11.1,2020-01-01,%,"Inflation, consumer prices (annual %)",False,False
+2020-01-01,non_food_inflation_rate,5.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,5.1,2020-01-01,%,Non-Food Inflation (%),False,False
+2020-02-01,consumer_price_index,127.9,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,127.9,2020-02-01,Index,CPI Index (Overall),False,False
+2020-02-01,food_inflation_rate,17.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,17.0,2020-02-01,%,Food Inflation (%),False,False
+2020-02-01,inflation_rate,11.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,11.0,2020-02-01,%,"Inflation, consumer prices (annual %)",False,False
+2020-02-01,non_food_inflation_rate,5.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,5.4,2020-02-01,%,Non-Food Inflation (%),False,False
+2020-03-01,consumer_price_index,126.9,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,126.9,2020-03-01,Index,CPI Index (Overall),False,False
+2020-03-01,food_inflation_rate,14.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,14.7,2020-03-01,%,Food Inflation (%),False,False
+2020-03-01,inflation_rate,9.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.8,2020-03-01,%,"Inflation, consumer prices (annual %)",False,False
+2020-03-01,non_food_inflation_rate,5.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,5.1,2020-03-01,%,Non-Food Inflation (%),False,False
+2020-04-01,consumer_price_index,121.6,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,121.6,2020-04-01,Index,CPI Index (Overall),False,False
+2020-04-01,food_inflation_rate,14.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,14.6,2020-04-01,%,Food Inflation (%),False,False
+2020-04-01,inflation_rate,9.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.4,2020-04-01,%,"Inflation, consumer prices (annual %)",False,False
+2020-04-01,non_food_inflation_rate,5.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,5.0,2020-04-01,%,Non-Food Inflation (%),False,False
+2020-05-01,consumer_price_index,119.8,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,119.8,2020-05-01,Index,CPI Index (Overall),False,False
+2020-05-01,food_inflation_rate,13.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,13.7,2020-05-01,%,Food Inflation (%),False,False
+2020-05-01,inflation_rate,8.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.7,2020-05-01,%,"Inflation, consumer prices (annual %)",False,False
+2020-05-01,non_food_inflation_rate,4.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,4.5,2020-05-01,%,Non-Food Inflation (%),False,False
+2020-06-01,consumer_price_index,119.4,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,119.4,2020-06-01,Index,CPI Index (Overall),False,False
+2020-06-01,food_inflation_rate,13.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,13.4,2020-06-01,%,Food Inflation (%),False,False
+2020-06-01,inflation_rate,8.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.5,2020-06-01,%,"Inflation, consumer prices (annual %)",False,False
+2020-06-01,non_food_inflation_rate,4.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,4.5,2020-06-01,%,Non-Food Inflation (%),False,False
+2020-07-01,consumer_price_index,119.9,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,119.9,2020-07-01,Index,CPI Index (Overall),False,False
+2020-07-01,food_inflation_rate,12.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,12.2,2020-07-01,%,Food Inflation (%),False,False
+2020-07-01,inflation_rate,8.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.0,2020-07-01,%,"Inflation, consumer prices (annual %)",False,False
+2020-07-01,non_food_inflation_rate,4.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,4.4,2020-07-01,%,Non-Food Inflation (%),False,False
+2020-08-01,consumer_price_index,121.3,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,121.3,2020-08-01,Index,CPI Index (Overall),False,False
+2020-08-01,food_inflation_rate,11.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,11.3,2020-08-01,%,Food Inflation (%),False,False
+2020-08-01,inflation_rate,7.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.6,2020-08-01,%,"Inflation, consumer prices (annual %)",False,False
+2020-08-01,non_food_inflation_rate,4.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,4.4,2020-08-01,%,Non-Food Inflation (%),False,False
+2020-09-01,consumer_price_index,123.0,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,123.0,2020-09-01,Index,CPI Index (Overall),False,False
+2020-09-01,food_inflation_rate,10.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.3,2020-09-01,%,Food Inflation (%),False,False
+2020-09-01,inflation_rate,7.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.1,2020-09-01,%,"Inflation, consumer prices (annual %)",False,False
+2020-09-01,non_food_inflation_rate,4.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,4.4,2020-09-01,%,Non-Food Inflation (%),False,False
+2020-10-01,consumer_price_index,126.1,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,126.1,2020-10-01,Index,CPI Index (Overall),False,False
+2020-10-01,food_inflation_rate,10.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.9,2020-10-01,%,Food Inflation (%),False,False
+2020-10-01,inflation_rate,7.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.5,2020-10-01,%,"Inflation, consumer prices (annual %)",False,False
+2020-10-01,non_food_inflation_rate,4.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,4.5,2020-10-01,%,Non-Food Inflation (%),False,False
+2020-11-01,consumer_price_index,128.6,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,128.6,2020-11-01,Index,CPI Index (Overall),False,False
+2020-11-01,food_inflation_rate,10.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.4,2020-11-01,%,Food Inflation (%),False,False
+2020-11-01,inflation_rate,7.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.3,2020-11-01,%,"Inflation, consumer prices (annual %)",False,False
+2020-11-01,non_food_inflation_rate,4.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,4.4,2020-11-01,%,Non-Food Inflation (%),False,False
+2020-12-01,consumer_price_index,131.9,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,131.9,2020-12-01,Index,CPI Index (Overall),False,False
+2020-12-01,food_inflation_rate,10.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.5,2020-12-01,%,Food Inflation (%),False,False
+2020-12-01,inflation_rate,7.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.6,2020-12-01,%,"Inflation, consumer prices (annual %)",False,False
+2020-12-01,non_food_inflation_rate,4.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,4.9,2020-12-01,%,Non-Food Inflation (%),False,False
+2021-01-01,consumer_price_index,136.0,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,136.0,2021-01-01,Index,CPI Index (Overall),False,False
+2021-01-01,food_inflation_rate,9.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.7,2021-01-01,%,Food Inflation (%),False,False
+2021-01-01,inflation_rate,7.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.7,2021-01-01,%,"Inflation, consumer prices (annual %)",False,False
+2021-01-01,non_food_inflation_rate,5.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,5.6,2021-01-01,%,Non-Food Inflation (%),False,False
+2021-02-01,consumer_price_index,138.5,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,138.5,2021-02-01,Index,CPI Index (Overall),False,False
+2021-02-01,food_inflation_rate,10.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.3,2021-02-01,%,Food Inflation (%),False,False
+2021-02-01,inflation_rate,8.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.3,2021-02-01,%,"Inflation, consumer prices (annual %)",False,False
+2021-02-01,non_food_inflation_rate,6.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,6.3,2021-02-01,%,Non-Food Inflation (%),False,False
+2021-03-01,consumer_price_index,139.8,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,139.8,2021-03-01,Index,CPI Index (Overall),False,False
+2021-03-01,food_inflation_rate,11.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,11.7,2021-03-01,%,Food Inflation (%),False,False
+2021-03-01,inflation_rate,9.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.4,2021-03-01,%,"Inflation, consumer prices (annual %)",False,False
+2021-03-01,non_food_inflation_rate,6.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,6.9,2021-03-01,%,Non-Food Inflation (%),False,False
+2021-04-01,consumer_price_index,132.8,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,132.8,2021-04-01,Index,CPI Index (Overall),False,False
+2021-04-01,food_inflation_rate,11.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,11.5,2021-04-01,%,Food Inflation (%),False,False
+2021-04-01,inflation_rate,9.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.2,2021-04-01,%,"Inflation, consumer prices (annual %)",False,False
+2021-04-01,non_food_inflation_rate,7.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.0,2021-04-01,%,Non-Food Inflation (%),False,False
+2021-05-01,consumer_price_index,130.4,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,130.4,2021-05-01,Index,CPI Index (Overall),False,False
+2021-05-01,food_inflation_rate,11.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,11.0,2021-05-01,%,Food Inflation (%),False,False
+2021-05-01,inflation_rate,8.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.9,2021-05-01,%,"Inflation, consumer prices (annual %)",False,False
+2021-05-01,non_food_inflation_rate,7.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.1,2021-05-01,%,Non-Food Inflation (%),False,False
+2021-06-01,consumer_price_index,130.2,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,130.2,2021-06-01,Index,CPI Index (Overall),False,False
+2021-06-01,food_inflation_rate,11.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,11.1,2021-06-01,%,Food Inflation (%),False,False
+2021-06-01,inflation_rate,9.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.1,2021-06-01,%,"Inflation, consumer prices (annual %)",False,False
+2021-06-01,non_food_inflation_rate,7.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.2,2021-06-01,%,Non-Food Inflation (%),False,False
+2021-07-01,consumer_price_index,130.3,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,130.3,2021-07-01,Index,CPI Index (Overall),False,False
+2021-07-01,food_inflation_rate,10.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.3,2021-07-01,%,Food Inflation (%),False,False
+2021-07-01,inflation_rate,8.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.7,2021-07-01,%,"Inflation, consumer prices (annual %)",False,False
+2021-07-01,non_food_inflation_rate,7.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.2,2021-07-01,%,Non-Food Inflation (%),False,False
+2021-08-01,consumer_price_index,131.5,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,131.5,2021-08-01,Index,CPI Index (Overall),False,False
+2021-08-01,food_inflation_rate,9.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.7,2021-08-01,%,Food Inflation (%),False,False
+2021-08-01,inflation_rate,8.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.4,2021-08-01,%,"Inflation, consumer prices (annual %)",False,False
+2021-08-01,non_food_inflation_rate,7.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.2,2021-08-01,%,Non-Food Inflation (%),False,False
+2021-09-01,consumer_price_index,134.0,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,134.0,2021-09-01,Index,CPI Index (Overall),False,False
+2021-09-01,food_inflation_rate,10.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.9,2021-09-01,%,Food Inflation (%),False,False
+2021-09-01,inflation_rate,8.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,8.9,2021-09-01,%,"Inflation, consumer prices (annual %)",False,False
+2021-09-01,non_food_inflation_rate,7.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.2,2021-09-01,%,Non-Food Inflation (%),False,False
+2021-10-01,consumer_price_index,138.4,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,138.4,2021-10-01,Index,CPI Index (Overall),False,False
+2021-10-01,food_inflation_rate,11.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,11.8,2021-10-01,%,Food Inflation (%),False,False
+2021-10-01,inflation_rate,9.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.8,2021-10-01,%,"Inflation, consumer prices (annual %)",False,False
+2021-10-01,non_food_inflation_rate,7.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,7.8,2021-10-01,%,Non-Food Inflation (%),False,False
+2021-11-01,consumer_price_index,143.0,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,143.0,2021-11-01,Index,CPI Index (Overall),False,False
+2021-11-01,food_inflation_rate,12.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,12.8,2021-11-01,%,Food Inflation (%),False,False
+2021-11-01,inflation_rate,11.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,11.1,2021-11-01,%,"Inflation, consumer prices (annual %)",False,False
+2021-11-01,non_food_inflation_rate,9.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.5,2021-11-01,%,Non-Food Inflation (%),False,False
+2021-12-01,consumer_price_index,147.1,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,147.1,2021-12-01,Index,CPI Index (Overall),False,False
+2021-12-01,food_inflation_rate,13.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,13.6,2021-12-01,%,Food Inflation (%),False,False
+2021-12-01,inflation_rate,11.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,11.5,2021-12-01,%,"Inflation, consumer prices (annual %)",False,False
+2021-12-01,non_food_inflation_rate,9.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.5,2021-12-01,%,Non-Food Inflation (%),False,False
+2022-01-01,consumer_price_index,103.6,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,103.6,2022-01-01,Index,CPI Index (Overall),False,False
+2022-01-01,food_inflation_rate,14.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,14.2,2022-01-01,%,Food Inflation (%),False,False
+2022-01-01,inflation_rate,12.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,12.1,2022-01-01,%,"Inflation, consumer prices (annual %)",False,False
+2022-01-01,non_food_inflation_rate,9.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,9.6,2022-01-01,%,Non-Food Inflation (%),False,False
+2022-02-01,consumer_price_index,106.4,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,106.4,2022-02-01,Index,CPI Index (Overall),False,False
+2022-02-01,food_inflation_rate,15.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,15.3,2022-02-01,%,Food Inflation (%),False,False
+2022-02-01,inflation_rate,13.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,13.0,2022-02-01,%,"Inflation, consumer prices (annual %)",False,False
+2022-02-01,non_food_inflation_rate,10.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.1,2022-02-01,%,Non-Food Inflation (%),False,False
+2022-03-01,consumer_price_index,108.4,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,108.4,2022-03-01,Index,CPI Index (Overall),False,False
+2022-03-01,food_inflation_rate,17.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,17.1,2022-03-01,%,Food Inflation (%),False,False
+2022-03-01,inflation_rate,14.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,14.1,2022-03-01,%,"Inflation, consumer prices (annual %)",False,False
+2022-03-01,non_food_inflation_rate,10.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,10.5,2022-03-01,%,Non-Food Inflation (%),False,False
+2022-04-01,consumer_price_index,104.4,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,104.4,2022-04-01,Index,CPI Index (Overall),False,False
+2022-04-01,food_inflation_rate,19.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,19.5,2022-04-01,%,Food Inflation (%),False,False
+2022-04-01,inflation_rate,15.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,15.7,2022-04-01,%,"Inflation, consumer prices (annual %)",False,False
+2022-04-01,non_food_inflation_rate,12.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,12.2,2022-04-01,%,Non-Food Inflation (%),False,False
+2022-05-01,consumer_price_index,105.6,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,105.6,2022-05-01,Index,CPI Index (Overall),False,False
+2022-05-01,food_inflation_rate,25.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,25.5,2022-05-01,%,Food Inflation (%),False,False
+2022-05-01,inflation_rate,19.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,19.1,2022-05-01,%,"Inflation, consumer prices (annual %)",False,False
+2022-05-01,non_food_inflation_rate,13.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,13.2,2022-05-01,%,Non-Food Inflation (%),False,False
+2022-06-01,consumer_price_index,109.3,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,109.3,2022-06-01,Index,CPI Index (Overall),False,False
+2022-06-01,food_inflation_rate,31.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,31.2,2022-06-01,%,Food Inflation (%),False,False
+2022-06-01,inflation_rate,23.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,23.5,2022-06-01,%,"Inflation, consumer prices (annual %)",False,False
+2022-06-01,non_food_inflation_rate,16.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,16.6,2022-06-01,%,Non-Food Inflation (%),False,False
+2022-07-01,consumer_price_index,110.3,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,110.3,2022-07-01,Index,CPI Index (Overall),False,False
+2022-07-01,food_inflation_rate,32.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,32.5,2022-07-01,%,Food Inflation (%),False,False
+2022-07-01,inflation_rate,24.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,24.6,2022-07-01,%,"Inflation, consumer prices (annual %)",False,False
+2022-07-01,non_food_inflation_rate,17.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,17.5,2022-07-01,%,Non-Food Inflation (%),False,False
+2022-08-01,consumer_price_index,112.2,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,112.2,2022-08-01,Index,CPI Index (Overall),False,False
+2022-08-01,food_inflation_rate,33.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,33.4,2022-08-01,%,Food Inflation (%),False,False
+2022-08-01,inflation_rate,25.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,25.5,2022-08-01,%,"Inflation, consumer prices (annual %)",False,False
+2022-08-01,non_food_inflation_rate,18.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,18.2,2022-08-01,%,Non-Food Inflation (%),False,False
+2022-09-01,consumer_price_index,114.6,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,114.6,2022-09-01,Index,CPI Index (Overall),False,False
+2022-09-01,food_inflation_rate,33.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,33.7,2022-09-01,%,Food Inflation (%),False,False
+2022-09-01,inflation_rate,25.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,25.9,2022-09-01,%,"Inflation, consumer prices (annual %)",False,False
+2022-09-01,non_food_inflation_rate,18.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,18.3,2022-09-01,%,Non-Food Inflation (%),False,False
+2022-10-01,consumer_price_index,119.2,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,119.2,2022-10-01,Index,CPI Index (Overall),False,False
+2022-10-01,food_inflation_rate,34.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,34.5,2022-10-01,%,Food Inflation (%),False,False
+2022-10-01,inflation_rate,26.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,26.7,2022-10-01,%,"Inflation, consumer prices (annual %)",False,False
+2022-10-01,non_food_inflation_rate,18.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,18.6,2022-10-01,%,Non-Food Inflation (%),False,False
+2022-11-01,consumer_price_index,122.3,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,122.3,2022-11-01,Index,CPI Index (Overall),False,False
+2022-11-01,food_inflation_rate,33.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,33.4,2022-11-01,%,Food Inflation (%),False,False
+2022-11-01,inflation_rate,25.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,25.8,2022-11-01,%,"Inflation, consumer prices (annual %)",False,False
+2022-11-01,non_food_inflation_rate,17.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,17.7,2022-11-01,%,Non-Food Inflation (%),False,False
+2022-12-01,consumer_price_index,125.4,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,125.4,2022-12-01,Index,CPI Index (Overall),False,False
+2022-12-01,food_inflation_rate,31.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,31.3,2022-12-01,%,Food Inflation (%),False,False
+2022-12-01,inflation_rate,25.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,25.4,2022-12-01,%,"Inflation, consumer prices (annual %)",False,False
+2022-12-01,non_food_inflation_rate,18.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,18.6,2022-12-01,%,Non-Food Inflation (%),False,False
+2023-01-01,consumer_price_index,130.4,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,130.4,2023-01-01,Index,CPI Index (Overall),False,False
+2023-01-01,food_inflation_rate,30.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,30.5,2023-01-01,%,Food Inflation (%),False,False
+2023-01-01,inflation_rate,25.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,25.9,2023-01-01,%,"Inflation, consumer prices (annual %)",False,False
+2023-01-01,non_food_inflation_rate,20.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,20.4,2023-01-01,%,Non-Food Inflation (%),False,False
+2023-02-01,consumer_price_index,134.7,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,134.7,2023-02-01,Index,CPI Index (Overall),False,False
+2023-02-01,food_inflation_rate,31.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,31.7,2023-02-01,%,Food Inflation (%),False,False
+2023-02-01,inflation_rate,26.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,26.7,2023-02-01,%,"Inflation, consumer prices (annual %)",False,False
+2023-02-01,non_food_inflation_rate,20.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,20.5,2023-02-01,%,Non-Food Inflation (%),False,False
+2023-03-01,consumer_price_index,137.7,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,137.7,2023-03-01,Index,CPI Index (Overall),False,False
+2023-03-01,food_inflation_rate,32.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,32.4,2023-03-01,%,Food Inflation (%),False,False
+2023-03-01,inflation_rate,27.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,27.0,2023-03-01,%,"Inflation, consumer prices (annual %)",False,False
+2023-03-01,non_food_inflation_rate,20.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,20.2,2023-03-01,%,Non-Food Inflation (%),False,False
+2023-04-01,consumer_price_index,134.5,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,134.5,2023-04-01,Index,CPI Index (Overall),False,False
+2023-04-01,food_inflation_rate,37.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,37.9,2023-04-01,%,Food Inflation (%),False,False
+2023-04-01,inflation_rate,28.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,28.8,2023-04-01,%,"Inflation, consumer prices (annual %)",False,False
+2023-04-01,non_food_inflation_rate,18.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,18.5,2023-04-01,%,Non-Food Inflation (%),False,False
+2023-05-01,consumer_price_index,136.4,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,136.4,2023-05-01,Index,CPI Index (Overall),False,False
+2023-05-01,food_inflation_rate,38.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,38.8,2023-05-01,%,Food Inflation (%),False,False
+2023-05-01,inflation_rate,29.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,29.2,2023-05-01,%,"Inflation, consumer prices (annual %)",False,False
+2023-05-01,non_food_inflation_rate,18.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,18.4,2023-05-01,%,Non-Food Inflation (%),False,False
+2023-06-01,consumer_price_index,139.1,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,139.1,2023-06-01,Index,CPI Index (Overall),False,False
+2023-06-01,food_inflation_rate,37.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,37.2,2023-06-01,%,Food Inflation (%),False,False
+2023-06-01,inflation_rate,27.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,27.3,2023-06-01,%,"Inflation, consumer prices (annual %)",False,False
+2023-06-01,non_food_inflation_rate,16.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,16.0,2023-06-01,%,Non-Food Inflation (%),False,False
+2023-07-01,consumer_price_index,141.6,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,141.6,2023-07-01,Index,CPI Index (Overall),False,False
+2023-07-01,food_inflation_rate,39.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,39.3,2023-07-01,%,Food Inflation (%),False,False
+2023-07-01,inflation_rate,28.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,28.4,2023-07-01,%,"Inflation, consumer prices (annual %)",False,False
+2023-07-01,non_food_inflation_rate,16.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,16.0,2023-07-01,%,Non-Food Inflation (%),False,False
+2023-08-01,consumer_price_index,144.2,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,144.2,2023-08-01,Index,CPI Index (Overall),False,False
+2023-08-01,food_inflation_rate,39.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,39.4,2023-08-01,%,Food Inflation (%),False,False
+2023-08-01,inflation_rate,28.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,28.6,2023-08-01,%,"Inflation, consumer prices (annual %)",False,False
+2023-08-01,non_food_inflation_rate,16.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,16.1,2023-08-01,%,Non-Food Inflation (%),False,False
+2023-09-01,consumer_price_index,146.4,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,146.4,2023-09-01,Index,CPI Index (Overall),False,False
+2023-09-01,food_inflation_rate,36.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,36.8,2023-09-01,%,Food Inflation (%),False,False
+2023-09-01,inflation_rate,27.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,27.8,2023-09-01,%,"Inflation, consumer prices (annual %)",False,False
+2023-09-01,non_food_inflation_rate,17.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,17.2,2023-09-01,%,Non-Food Inflation (%),False,False
+2023-10-01,consumer_price_index,151.3,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,151.3,2023-10-01,Index,CPI Index (Overall),False,False
+2023-10-01,food_inflation_rate,34.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,34.5,2023-10-01,%,Food Inflation (%),False,False
+2023-10-01,inflation_rate,26.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,26.9,2023-10-01,%,"Inflation, consumer prices (annual %)",False,False
+2023-10-01,non_food_inflation_rate,17.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,17.6,2023-10-01,%,Non-Food Inflation (%),False,False
+2023-11-01,consumer_price_index,162.8,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,162.8,2023-11-01,Index,CPI Index (Overall),False,False
+2023-11-01,food_inflation_rate,41.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,41.7,2023-11-01,%,Food Inflation (%),False,False
+2023-11-01,inflation_rate,33.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,33.1,2023-11-01,%,"Inflation, consumer prices (annual %)",False,False
+2023-11-01,non_food_inflation_rate,22.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,22.2,2023-11-01,%,Non-Food Inflation (%),False,False
+2023-12-01,consumer_price_index,168.7,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,168.7,2023-12-01,Index,CPI Index (Overall),False,False
+2023-12-01,food_inflation_rate,43.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,43.5,2023-12-01,%,Food Inflation (%),False,False
+2023-12-01,inflation_rate,34.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,34.5,2023-12-01,%,"Inflation, consumer prices (annual %)",False,False
+2023-12-01,non_food_inflation_rate,22.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,22.8,2023-12-01,%,Non-Food Inflation (%),False,False
+2024-01-01,consumer_price_index,176.0,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,176.0,2024-01-01,Index,CPI Index (Overall),False,False
+2024-01-01,food_inflation_rate,44.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,44.9,2024-01-01,%,Food Inflation (%),False,False
+2024-01-01,inflation_rate,35.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,35.0,2024-01-01,%,"Inflation, consumer prices (annual %)",False,False
+2024-01-01,non_food_inflation_rate,22.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,22.0,2024-01-01,%,Non-Food Inflation (%),False,False
+2024-02-01,consumer_price_index,179.8,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,179.8,2024-02-01,Index,CPI Index (Overall),False,False
+2024-02-01,food_inflation_rate,42.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,42.0,2024-02-01,%,Food Inflation (%),False,False
+2024-02-01,inflation_rate,33.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,33.5,2024-02-01,%,"Inflation, consumer prices (annual %)",False,False
+2024-02-01,non_food_inflation_rate,22.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,22.1,2024-02-01,%,Non-Food Inflation (%),False,False
+2024-03-01,consumer_price_index,181.5,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,181.5,2024-03-01,Index,CPI Index (Overall),False,False
+2024-03-01,food_inflation_rate,38.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,38.8,2024-03-01,%,Food Inflation (%),False,False
+2024-03-01,inflation_rate,31.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,31.8,2024-03-01,%,"Inflation, consumer prices (annual %)",False,False
+2024-03-01,non_food_inflation_rate,22.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,22.2,2024-03-01,%,Non-Food Inflation (%),False,False
+2024-04-01,consumer_price_index,177.9,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,177.9,2024-04-01,Index,CPI Index (Overall),False,False
+2024-04-01,food_inflation_rate,39.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,39.9,2024-04-01,%,Food Inflation (%),False,False
+2024-04-01,inflation_rate,32.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,32.3,2024-04-01,%,"Inflation, consumer prices (annual %)",False,False
+2024-04-01,non_food_inflation_rate,22.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,22.4,2024-04-01,%,Non-Food Inflation (%),False,False
+2024-05-01,consumer_price_index,181.1,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,181.1,2024-05-01,Index,CPI Index (Overall),False,False
+2024-05-01,food_inflation_rate,40.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,40.7,2024-05-01,%,Food Inflation (%),False,False
+2024-05-01,inflation_rate,32.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,32.7,2024-05-01,%,"Inflation, consumer prices (annual %)",False,False
+2024-05-01,non_food_inflation_rate,22.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,22.1,2024-05-01,%,Non-Food Inflation (%),False,False
+2024-06-01,consumer_price_index,185.5,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,185.5,2024-06-01,Index,CPI Index (Overall),False,False
+2024-06-01,food_inflation_rate,41.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,41.5,2024-06-01,%,Food Inflation (%),False,False
+2024-06-01,inflation_rate,33.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,33.3,2024-06-01,%,"Inflation, consumer prices (annual %)",False,False
+2024-06-01,non_food_inflation_rate,22.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,22.2,2024-06-01,%,Non-Food Inflation (%),False,False
+2024-07-01,consumer_price_index,189.3,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,189.3,2024-07-01,Index,CPI Index (Overall),False,False
+2024-07-01,food_inflation_rate,41.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,41.9,2024-07-01,%,Food Inflation (%),False,False
+2024-07-01,inflation_rate,33.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,33.7,2024-07-01,%,"Inflation, consumer prices (annual %)",False,False
+2024-07-01,non_food_inflation_rate,22.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,22.4,2024-07-01,%,Non-Food Inflation (%),False,False
+2024-08-01,consumer_price_index,193.0,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,193.0,2024-08-01,Index,CPI Index (Overall),False,False
+2024-08-01,food_inflation_rate,42.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,42.0,2024-08-01,%,Food Inflation (%),False,False
+2024-08-01,inflation_rate,33.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,33.9,2024-08-01,%,"Inflation, consumer prices (annual %)",False,False
+2024-08-01,non_food_inflation_rate,22.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,22.7,2024-08-01,%,Non-Food Inflation (%),False,False
+2024-09-01,consumer_price_index,196.6,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,196.6,2024-09-01,Index,CPI Index (Overall),False,False
+2024-09-01,food_inflation_rate,43.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,43.5,2024-09-01,%,Food Inflation (%),False,False
+2024-09-01,inflation_rate,34.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,34.3,2024-09-01,%,"Inflation, consumer prices (annual %)",False,False
+2024-09-01,non_food_inflation_rate,21.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,21.8,2024-09-01,%,Non-Food Inflation (%),False,False
+2024-10-01,consumer_price_index,200.3,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,200.3,2024-10-01,Index,CPI Index (Overall),False,False
+2024-10-01,food_inflation_rate,40.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,40.3,2024-10-01,%,Food Inflation (%),False,False
+2024-10-01,inflation_rate,32.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,32.4,2024-10-01,%,"Inflation, consumer prices (annual %)",False,False
+2024-10-01,non_food_inflation_rate,21.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,21.2,2024-10-01,%,Non-Food Inflation (%),False,False
+2024-11-01,consumer_price_index,206.7,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,206.7,2024-11-01,Index,CPI Index (Overall),False,False
+2024-11-01,food_inflation_rate,33.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,33.7,2024-11-01,%,Food Inflation (%),False,False
+2024-11-01,inflation_rate,27.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,27.0,2024-11-01,%,"Inflation, consumer prices (annual %)",False,False
+2024-11-01,non_food_inflation_rate,17.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,17.2,2024-11-01,%,Non-Food Inflation (%),False,False
+2024-12-01,consumer_price_index,216.1,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,216.1,2024-12-01,Index,CPI Index (Overall),False,False
+2024-12-01,food_inflation_rate,35.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,35.6,2024-12-01,%,Food Inflation (%),False,False
+2024-12-01,inflation_rate,28.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,28.1,2024-12-01,%,"Inflation, consumer prices (annual %)",False,False
+2024-12-01,non_food_inflation_rate,16.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,16.8,2024-12-01,%,Non-Food Inflation (%),False,False
+2025-01-01,consumer_price_index,226.3,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,226.3,2025-01-01,Index,CPI Index (Overall),False,False
+2025-01-01,food_inflation_rate,36.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,36.0,2025-01-01,%,Food Inflation (%),False,False
+2025-01-01,inflation_rate,28.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,28.5,2025-01-01,%,"Inflation, consumer prices (annual %)",False,False
+2025-01-01,non_food_inflation_rate,16.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,16.9,2025-01-01,%,Non-Food Inflation (%),False,False
+2025-02-01,consumer_price_index,235.0,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,235.0,2025-02-01,Index,CPI Index (Overall),False,False
+2025-02-01,food_inflation_rate,38.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,38.5,2025-02-01,%,Food Inflation (%),False,False
+2025-02-01,inflation_rate,30.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,30.7,2025-02-01,%,"Inflation, consumer prices (annual %)",False,False
+2025-02-01,non_food_inflation_rate,18.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,18.5,2025-02-01,%,Non-Food Inflation (%),False,False
+2025-03-01,consumer_price_index,236.8,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,236.8,2025-03-01,Index,CPI Index (Overall),False,False
+2025-03-01,food_inflation_rate,37.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,37.7,2025-03-01,%,Food Inflation (%),False,False
+2025-03-01,inflation_rate,30.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,30.5,2025-03-01,%,"Inflation, consumer prices (annual %)",False,False
+2025-03-01,non_food_inflation_rate,19.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,19.2,2025-03-01,%,Non-Food Inflation (%),False,False
+2025-04-01,consumer_price_index,229.9,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,229.9,2025-04-01,Index,CPI Index (Overall),False,False
+2025-04-01,food_inflation_rate,35.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,35.8,2025-04-01,%,Food Inflation (%),False,False
+2025-04-01,inflation_rate,29.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,29.2,2025-04-01,%,"Inflation, consumer prices (annual %)",False,False
+2025-04-01,non_food_inflation_rate,19.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,19.4,2025-04-01,%,Non-Food Inflation (%),False,False
+2025-05-01,consumer_price_index,231.2,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,231.2,2025-05-01,Index,CPI Index (Overall),False,False
+2025-05-01,food_inflation_rate,32.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,32.7,2025-05-01,%,Food Inflation (%),False,False
+2025-05-01,inflation_rate,27.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,27.7,2025-05-01,%,"Inflation, consumer prices (annual %)",False,False
+2025-05-01,non_food_inflation_rate,20.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,20.0,2025-05-01,%,Non-Food Inflation (%),False,False
+2025-06-01,consumer_price_index,235.7,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,235.7,2025-06-01,Index,CPI Index (Overall),False,False
+2025-06-01,food_inflation_rate,31.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,31.6,2025-06-01,%,Food Inflation (%),False,False
+2025-06-01,inflation_rate,27.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,27.1,2025-06-01,%,"Inflation, consumer prices (annual %)",False,False
+2025-06-01,non_food_inflation_rate,20.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,20.1,2025-06-01,%,Non-Food Inflation (%),False,False
+2025-07-01,consumer_price_index,241.0,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,241.0,2025-07-01,Index,CPI Index (Overall),False,False
+2025-07-01,food_inflation_rate,32.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,32.4,2025-07-01,%,Food Inflation (%),False,False
+2025-07-01,inflation_rate,27.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,27.3,2025-07-01,%,"Inflation, consumer prices (annual %)",False,False
+2025-07-01,non_food_inflation_rate,19.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,19.3,2025-07-01,%,Non-Food Inflation (%),False,False
+2025-08-01,consumer_price_index,247.5,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,247.5,2025-08-01,Index,CPI Index (Overall),False,False
+2025-08-01,food_inflation_rate,33.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,33.7,2025-08-01,%,Food Inflation (%),False,False
+2025-08-01,inflation_rate,28.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,28.2,2025-08-01,%,"Inflation, consumer prices (annual %)",False,False
+2025-08-01,non_food_inflation_rate,19.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,19.5,2025-08-01,%,Non-Food Inflation (%),False,False
+2025-09-01,consumer_price_index,253.0,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,253.0,2025-09-01,Index,CPI Index (Overall),False,False
+2025-09-01,food_inflation_rate,33.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,33.0,2025-09-01,%,Food Inflation (%),False,False
+2025-09-01,inflation_rate,28.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,28.7,2025-09-01,%,"Inflation, consumer prices (annual %)",False,False
+2025-09-01,non_food_inflation_rate,21.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,21.7,2025-09-01,%,Non-Food Inflation (%),False,False
+2025-10-01,consumer_price_index,258.6,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,258.6,2025-10-01,Index,CPI Index (Overall),False,False
+2025-10-01,food_inflation_rate,32.38,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,32.38,2025-10-01,%,Food Inflation (%),False,False
+2025-10-01,inflation_rate,29.11,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,29.11,2025-10-01,%,"Inflation, consumer prices (annual %)",False,False
+2025-10-01,non_food_inflation_rate,23.78,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,23.78,2025-10-01,%,Non-Food Inflation (%),False,False
+2025-11-01,consumer_price_index,264.4,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,264.4,2025-11-01,Index,CPI Index (Overall),False,False
+2025-11-01,food_inflation_rate,30.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,30.1,2025-11-01,%,Food Inflation (%),False,False
+2025-11-01,inflation_rate,27.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,27.9,2025-11-01,%,"Inflation, consumer prices (annual %)",False,False
+2025-11-01,non_food_inflation_rate,24.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,24.2,2025-11-01,%,Non-Food Inflation (%),False,False
+2025-12-01,consumer_price_index,272.33,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,272.33,2025-12-01,Index,CPI Index (Overall),False,False
+2025-12-01,food_inflation_rate,26.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,26.5,2025-12-01,%,Food Inflation (%),False,False
+2025-12-01,inflation_rate,26.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,26.0,2025-12-01,%,"Inflation, consumer prices (annual %)",False,False
+2025-12-01,non_food_inflation_rate,25.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,25.2,2025-12-01,%,Non-Food Inflation (%),False,False
+2026-01-01,consumer_price_index,282.5,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,282.5,2026-01-01,Index,CPI Index (Overall),False,False
+2026-01-01,food_inflation_rate,22.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,22.1,2026-01-01,%,Food Inflation (%),False,False
+2026-01-01,inflation_rate,24.9,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,24.9,2026-01-01,%,"Inflation, consumer prices (annual %)",False,False
+2026-01-01,non_food_inflation_rate,29.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,29.8,2026-01-01,%,Non-Food Inflation (%),False,False
+2026-02-01,consumer_price_index,291.6,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,291.6,2026-02-01,Index,CPI Index (Overall),False,False
+2026-02-01,food_inflation_rate,20.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,20.8,2026-02-01,%,Food Inflation (%),False,False
+2026-02-01,inflation_rate,24.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,24.1,2026-02-01,%,"Inflation, consumer prices (annual %)",False,False
+2026-02-01,non_food_inflation_rate,30.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,30.0,2026-02-01,%,Non-Food Inflation (%),False,False
+2026-03-01,consumer_price_index,293.2,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,293.2,2026-03-01,Index,CPI Index (Overall),False,False
+2026-03-01,food_inflation_rate,20.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,20.0,2026-03-01,%,Food Inflation (%),False,False
+2026-03-01,inflation_rate,23.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,23.8,2026-03-01,%,"Inflation, consumer prices (annual %)",False,False
+2026-03-01,non_food_inflation_rate,30.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,30.7,2026-03-01,%,Non-Food Inflation (%),False,False
+2026-04-01,consumer_price_index,285.8,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,285.8,2026-04-01,Index,CPI Index (Overall),False,False
+2026-04-01,food_inflation_rate,19.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,19.1,2026-04-01,%,Food Inflation (%),False,False
+2026-04-01,inflation_rate,24.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,24.3,2026-04-01,%,"Inflation, consumer prices (annual %)",False,False
+2026-04-01,non_food_inflation_rate,33.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,33.2,2026-04-01,%,Non-Food Inflation (%),False,False
+2026-05-01,consumer_price_index,285.2,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,285.2,2026-05-01,Index,CPI Index (Overall),False,False
+2026-05-01,food_inflation_rate,17.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,17.6,2026-05-01,%,Food Inflation (%),False,False
+2026-05-01,inflation_rate,23.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,23.4,2026-05-01,%,"Inflation, consumer prices (annual %)",False,False
+2026-05-01,non_food_inflation_rate,33.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,33.0,2026-05-01,%,Non-Food Inflation (%),False,False
+2026-06-01,consumer_price_index,285.5,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,285.5,2026-06-01,Index,CPI Index (Overall),False,False
+2026-06-01,food_inflation_rate,14.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,14.7,2026-06-01,%,Food Inflation (%),False,False
+2026-06-01,inflation_rate,21.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,21.1,2026-06-01,%,"Inflation, consumer prices (annual %)",False,False
+2026-06-01,non_food_inflation_rate,32.1,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,32.1,2026-06-01,%,Non-Food Inflation (%),False,False
+2026-07-01,consumer_price_index,291.3,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,291.3,2026-07-01,Index,CPI Index (Overall),False,False
+2026-07-01,food_inflation_rate,14.3,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,14.3,2026-07-01,%,Food Inflation (%),False,False
+2026-07-01,inflation_rate,20.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,20.8,2026-07-01,%,"Inflation, consumer prices (annual %)",False,False
+2026-07-01,non_food_inflation_rate,32.2,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,32.2,2026-07-01,%,Non-Food Inflation (%),False,False
+2026-08-01,consumer_price_index,297.1,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,297.1,2026-08-01,Index,CPI Index (Overall),False,False
+2026-08-01,food_inflation_rate,13.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,13.4,2026-08-01,%,Food Inflation (%),False,False
+2026-08-01,inflation_rate,20.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,20.0,2026-08-01,%,"Inflation, consumer prices (annual %)",False,False
+2026-08-01,non_food_inflation_rate,31.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,31.8,2026-08-01,%,Non-Food Inflation (%),False,False
+2026-09-01,consumer_price_index,302.0,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,302.0,2026-09-01,Index,CPI Index (Overall),False,False
+2026-09-01,food_inflation_rate,12.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,12.5,2026-09-01,%,Food Inflation (%),False,False
+2026-09-01,inflation_rate,19.4,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,19.4,2026-09-01,%,"Inflation, consumer prices (annual %)",False,False
+2026-09-01,non_food_inflation_rate,31.5,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,31.5,2026-09-01,%,Non-Food Inflation (%),False,False
+2026-10-01,consumer_price_index,306.7,Index,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Other,306.7,2026-10-01,Index,CPI Index (Overall),False,False
+2026-10-01,food_inflation_rate,12.8,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,12.8,2026-10-01,%,Food Inflation (%),False,False
+2026-10-01,inflation_rate,18.6,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,18.6,2026-10-01,%,"Inflation, consumer prices (annual %)",False,False
+2026-10-01,non_food_inflation_rate,28.7,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw/Statistics/InflationRates/,Macroeconomy,28.7,2026-10-01,%,Non-Food Inflation (%),False,False
+2026-11-25,bank_policy_rate,24.0,%,monthly,Malawi,,,,,RBM,https://www.rbm.mw,Monetary,24.0,2026-11-25,%,Monetary Policy Rate,False,False
+2026-11-25,exchange_rate_usd_mwk_buying,1717.0236,MWK,daily,Malawi,,,,,RBM,https://www.rbm.mw,Monetary,1717.0236,2026-11-25,MWK,FX: USD/MWK Buying,False,False
+2026-11-25,exchange_rate_usd_mwk_selling,1751.0,MWK,daily,Malawi,,,,,RBM,https://www.rbm.mw,Monetary,1751.0,2026-11-25,MWK,FX: USD/MWK Selling,False,False
+2026-11-25,fx:_eur/mwk_buying,1933.8923,MWK,daily,Malawi,,,,,RBM,https://www.rbm.mw,Monetary,1933.8923,2026-11-25,MWK,FX: EUR/MWK Buying,False,False
+2026-11-25,fx:_eur/mwk_selling,1972.16,MWK,daily,Malawi,,,,,RBM,https://www.rbm.mw,Monetary,1972.16,2026-11-25,MWK,FX: EUR/MWK Selling,False,False
+2026-11-25,fx:_gbp/mwk_buying,2313.0661,MWK,daily,Malawi,,,,,RBM,https://www.rbm.mw,Monetary,2313.0661,2026-11-25,MWK,FX: GBP/MWK Buying,False,False
+2026-11-25,fx:_gbp/mwk_selling,2358.8369,MWK,daily,Malawi,,,,,RBM,https://www.rbm.mw,Monetary,2358.8369,2026-11-25,MWK,FX: GBP/MWK Selling,False,False
+2026-11-25,fx:_zar/mwk_buying,100.2713,MWK,daily,Malawi,,,,,RBM,https://www.rbm.mw,Monetary,100.2713,2026-11-25,MWK,FX: ZAR/MWK Buying,False,False
+2026-11-25,fx:_zar/mwk_selling,102.2554,MWK,daily,Malawi,,,,,RBM,https://www.rbm.mw,Monetary,102.2554,2026-11-25,MWK,FX: ZAR/MWK Selling,False,False

@@ -1,0 +1,13 @@
+,Variable,RMSE,MAE,MAPE (%),Dir_Acc (%)
+Benchmark_SNaive,inflation_rate,6.833,6.024,22.334,48.889
+Benchmark_SARIMA,inflation_rate,1.602,1.09,3.832,71.111
+XGBoost,inflation_rate,1.956,1.342,4.673,68.889
+Hybrid_SARIMA_XGB,inflation_rate,1.642,1.14,3.989,62.222
+Benchmark_SNaive,food_inflation_rate,11.5,9.911,41.342,51.111
+Benchmark_SARIMA,food_inflation_rate,2.411,1.778,5.608,71.111
+XGBoost,food_inflation_rate,3.491,2.571,7.749,57.778
+Hybrid_SARIMA_XGB,food_inflation_rate,2.398,1.83,5.878,64.444
+Benchmark_SNaive,non_food_inflation_rate,7.029,5.793,24.113,37.778
+Benchmark_SARIMA,non_food_inflation_rate,1.329,0.927,4.194,80.0
+XGBoost,non_food_inflation_rate,1.419,0.971,4.497,60.0
+Hybrid_SARIMA_XGB,non_food_inflation_rate,1.329,0.928,4.096,68.889
